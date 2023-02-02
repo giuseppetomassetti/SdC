@@ -1,0 +1,10 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\contentsline {section}{\numberline {1}Regolamento per le esercitazioni}{2}{section.1}%
+\contentsline {section}{\numberline {2}Modalit\`a di consegna}{2}{section.2}%
+\contentsline {section}{\numberline {3}Indicazioni per la redazione delle esercitazioni}{2}{section.3}%
+\contentsline {paragraph}{Indicatori.}{2}{section*.2}%
+\contentsline {paragraph}{Struttura del testo.}{3}{section*.3}%
+\contentsline {paragraph}{Utilizzo delle formule ``in mostra''.}{4}{section*.4}%
+\contentsline {section}{\numberline {4}Griglia di valutazione degli elaborati}{5}{section.4}%
+\contentsline {section}{\numberline {5}Un esempio.}{6}{section.5}%
