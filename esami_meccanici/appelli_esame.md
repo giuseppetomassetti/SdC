@@ -1,7 +1,27 @@
 
 
-Nota: ogni compito è diverso dall'altro, ma sono tutti molto simili. Per ogni appello viene mostrata solo una versione. I notebook mathematica possono essere visualizzati anche mediante Wolfram Player, scaricabile qui: https://www.wolfram.com/player/
+Nota: I notebook mathematica possono essere visualizzati anche mediante Wolfram Player, scaricabile qui: https://www.wolfram.com/player/
 La versione per ipad e iphone è scaricabile presso questo indirizzo: https://www.wolfram.com/player-app/
+
+
+
+## Appello del 17 luglio 2023
+
+[Esercizi](20230717.docx) 
+
+## 11 giugno 2023
+
+#### Esercizio 1
+
+[diagrammi.pdf](20230612/diagrammi.pdf) 
+
+[diagrammi.nb](20230612/diagrammi.nb)  
+
+#### Esercizio 2
+
+ [iperstatica.nb](20230612/iperstatica.nb)
+
+ [iperstatica.pdf](20230612/iperstatica.pdf) 
 
 ## 9 gennaio 2023
 
@@ -88,6 +108,10 @@ Primo turno
  [20220204_ing_meccanica_soluzione_torsione_primo_turno.pdf](20220204\20220204_ing_meccanica_soluzione_torsione_primo_turno.pdf) 
 
 [20220204_ing_meccanica_soluzione_torsione_secondo_turno.pdf](20220204\20220204_ing_meccanica_soluzione_torsione_secondo_turno.pdf) 
+
+
+
+
 
 <script type="text/javascript" src="https://freevisitorcounters.com/en/home/counter/905518/t/0"></script>
 
