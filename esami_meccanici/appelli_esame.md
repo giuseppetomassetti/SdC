@@ -1,7 +1,23 @@
 
 
-Nota: ogni compito è diverso dall'altro, ma sono tutti molto simili. Per ogni appello viene mostrata solo una versione. I notebook mathematica possono essere visualizzati anche mediante Wolfram Player, scaricabile qui: https://www.wolfram.com/player/
+Nota: I notebook mathematica possono essere visualizzati anche mediante Wolfram Player, scaricabile qui: https://www.wolfram.com/player/
 La versione per ipad e iphone è scaricabile presso questo indirizzo: https://www.wolfram.com/player-app/
+
+
+
+## 11 giugno 2023
+
+#### Esercizio 1
+
+[diagrammi.pdf](20230612/diagrammi.pdf) 
+
+[diagrammi.nb](20230612/diagrammi.nb)  
+
+#### Esercizio 2
+
+ [iperstatica.nb](20230612/iperstatica.nb)
+
+ [iperstatica.pdf](20230612/iperstatica.pdf) 
 
 ## 9 gennaio 2023
 
