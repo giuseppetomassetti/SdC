@@ -2,7 +2,7 @@
 
 Il programma d'esame fa riferimento al testo "Casini-Vasta Scienza delle Costruzioni, 4a edizione"
 
-**Fanno parte integrante del programma d'esame** le esercitazioni che verranno proposte sulla piattaforma moodle. Per poter sostenere la prova scritta è obbligatorio aver caricato le esercitazioni su moodle almeno **una settimana prima** della data della prova scritta, e vanno consegnate 
+**Fanno parte integrante del programma d'esame** le esercitazioni che verranno proposte sulla piattaforma moodle. Per poter sostenere la prova scritta è obbligatorio aver **caricato le esercitazioni su moodle almeno una settimana prima** della data della prova, e consegnare la versione cartacea il giorno della prova scritta.
 
 È possibile consegnare le esercitazioni relative all'A.A. durante il quale si è seguito il corso, **ma solo se queste sono state caricate sulla piattaforma moodle prima della pubblicazione delle soluzioni, che avviene all'inizio dell'AA successivo**. 
 
