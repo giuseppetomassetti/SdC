@@ -1,16 +1,67 @@
-[Cap 2. Cinematica del corpo rigido](cap02)
+# Slide delle lezioni
 
-[Cap 6. Caratteristiche della sollecitazione](cap06)
 
-[Cap 13. Analisi della deformazione](cap13)
+| Argomento                                          | Contenuto | Slide Explain Everything/ Powerpoint                         | Slide Pdf                                                    |
+| -------------------------------------------------- | --------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|Introduzione al corso| |[0.0 introduzione.pptx](0.0 introduzione.pptx)||
+| Cinematica dei sistemi di corpi rigidi             |           | [2.0 cinematica.pptx](2.0 cinematica.pptx)                   |                                                              |
+| Campi di spostamento rigidi infinitesimi           |           | [2.3 campi di spostamento rigidi infinitesimi.explain](2.3 campi di spostamento rigidi infinitesimi.explain) | [2.3 campi di spostamento rigidi infinitesimi.pdf](2.3 campi di spostamento rigidi infinitesimi.pdf) |
+| Caratterizzazione cinematica dei vincoli esterni   |           | [2.4.2 caratterizzazione cinematica dei vincoli esterni.explain](2.4.2 caratterizzazione cinematica dei vincoli esterni.explain) | [2.4.2 caratterizzazione cinematica dei vincoli esterni.pdf](2.4.2 caratterizzazione cinematica dei vincoli esterni.pdf) |
+| Il problema cinematico per il singolo corpo rigido |           | [2.5.1 Il problema cinematico per il singolo corpo rigido.explain](2.5.1 Il problema cinematico per il singolo corpo rigido.explain) | [2.5.1 Il problema cinematico per il singolo corpo rigido.pdf](2.5.1 Il problema cinematico per il singolo corpo rigido.pdf)<br /> |
+| Classificazione cinematica per via diretta         |           | [2.5.3.1 classificazione cinematica per via diretta.explain](2.5.3.1 classificazione cinematica per via diretta.explain) |                                                              |
+| Catene cinematiche                                 |           | [2.6 catene cinematiche.explain](2.6 catene cinematiche.explain) | [2.6 catene cinematiche.pdf](2.6 catene cinematiche.pdf)     |
+| Esercizi proposti es. 2.8                          |           | [2.8 esercizi proposti es. 2.8.explain](2.8 esercizi proposti es. 2.8.explain) | [2.8 esercizi proposti es. 2.8.pdf](2.8 esercizi proposti es. 2.8.pdf) |
+| Sistemi di forze                                   |           | [3.2 sistemi di forze.explain](3.2 sistemi di forze.explain) | [3.2 sistemi di forze.pdf](3.2 sistemi di forze.pdf)           |
+| Caratterizzazione statica dei vincoli               |           | [3.3 Caratterizzazione statica dei vincoli.explain](3.3 Caratterizzazione statica dei vincoli.explain) | [3.3 Caratterizzazione statica dei vincoli.pdf](3.3 Caratterizzazione statica dei vincoli.pdf) |
+| Posizione del problema statico parte prima          |           | [3.4.2.1 posizione del problema statico parte prima.explain](3.4.2.1 posizione del problema statico parte prima.explain) | [3.4.2.1 posizione del problema statico parte prima.pdf](3.4.2.1 posizione del problema statico parte prima.pdf) |
+| Posizione prob statico parte seconda                |           | [3.4.2.2 posizione del problema statico parte 2.explain](3.4.2.2 posizione del problema statico parte 2.explain) | [3.4.2.2 posizione del problema statico parte 2.pdf](3.4.2.2 posizione del problema statico parte 2.pdf) |
+| Classificazione statica                            |           | [3.4.3 classificazione statica.explain](3.4.3 classificazione statica.explain) | [3.4.3 classificazione statica.pdf](3.4.3 classificazione statica.pdf) |
+| Dualita statico cinematica                         |           | [3.5 Dualita statico cinematica.explain](3.5 Dualita statico cinematica.explain) | [3.5 Dualita statico cinematica.pdf](3.5 Dualita statico cinematica.pdf) |
+| Lavoro di un sistema di forze                       |           | [3.5.0.0 lavoro di un sistema di forze.explain](3.5.0.0 lavoro di un sistema di forze.explain) | [3.5.0.0 lavoro di un sistema di forze.pdf](3.5.0.0 lavoro di un sistema di forze.pdf) |
+| Principio dei lavori virtuali                       |           | [3.5.0.1 principio dei lavori virtuali.explain](3.5.0.1 principio dei lavori virtuali.explain) | [3.5.0.1 principio dei lavori virtuali.pdf](3.5.0.1 principio dei lavori virtuali.pdf) |
+| 4 - bending moments and shear forces              |           | [04 - bending moments and shear forces.pptx](04 - bending moments and shear forces.pptx) |                                                              |
+| 5.0 Cinematica della trave                        |  | [5.0 Cinematica della trave.explain](5.0 Cinematica della trave.explain) |[5.0 Cinematica della trave.pdf](5.0 Cinematica della trave.pdf) |
+| 6 esercizio diagrammi                             | |[6 esercizio diagrammi.explain](6 esercizio diagrammi.explain) | |
+| 6.1.4 Azioni interne                              | |[6.1.4 Azioni interne.explain](6.1.4 Azioni interne.explain) | [6.1.4 Azioni interne.pdf](6.1.4 Azioni interne.pdf) |
+| 6.1.5 diagrammi delle cds                         | |[6.1.5 diagrammi delle cds.explain](6.1.5 diagrammi delle cds.explain) | |
+| 6.1.5 diagrammi delle cds 2                       | |[6.1.5 diagrammi delle cds 2.explain](6.1.5 diagrammi delle cds 2.explain) | |
+| 6.1.5 diagrammi delle cds 3                       | |[6.1.5 diagrammi delle cds 3.pdf](6.1.5 diagrammi delle cds 3.pdf) |                                                              |
+| 6.2 equazioni indefinite di equilibrio            | |[6.2 equazioni indefinite di equilibrio.explain](6.2 equazioni indefinite di equilibrio.explain) | [6.2 Equazioni indefinite di equilibrio.pdf](6.2 Equazioni indefinite di equilibrio.pdf) |
+| 6.4.a metodi dell'equilibrio e dell'equivalenza   | |[6.4.a metodi dell'equilibrio e dell'equivalenza.explain](6.4.a metodi dell'equilibrio e dell'equivalenza.explain) | [6.4.a metodi dell'equilibrio e dell'equivalenza.pdf](6.4.a metodi dell'equilibrio e dell'equivalenza.pdf) |
+| 6.4.b integrazione diretta                        | |[6.4.b integrazione diretta.explain](6.4.b integrazione diretta.explain) | [6.4.b integrazione diretta.pdf](6.4.b integrazione diretta.pdf) |
+| 6.5 discontinuità                                 | |[6.5 discontinuità.explain](6.5 discontinuità.explain)       | [6.5 discontinuità.pdf](6.5 discontinuità.pdf) |
+| 6.5.3 condizioni di raccordo                      | |[6.5.3 condizioni di raccordo.explain](6.5.3 condizioni di raccordo.explain) |[6.5.3 condizioni di raccordo.pdf](6.5.3 condizioni di raccordo.pdf)|
+| Esercizi svolti (trave tesa)                        |           | [9.4 esercizi svolti (trave tesa).explain](9.4 esercizi svolti (trave tesa).explain) | [9.4 esercizi svolti (trave tesa).pdf](9.4 esercizi svolti (trave tesa).pdf) |
+| Esercizio 11.8                                     |           | [11.5 esercizi svolti Esercizio 11.8.explain](11.5 esercizi svolti Esercizio 11.8.explain) | [11.5 esercizi svolti Esercizio 11.8.pdf](11.5 esercizi svolti Esercizio 11.8.pdf) |
+| Processo deformativo                               |           | [13.2 processo deformativo.explain](13.2 processo deformativo.explain) | [13.2 processo deformativo.pdf](13.2 processo deformativo.pdf) |
+| Analisi della deformazione in un intorno           |           | [13.3 analisi della deformazione in un intorno e tensore della deformazione.explain](13.3 analisi della deformazione in un intorno e tensore della deformazione.explain) | [13.3 analisi della deformazione in un intorno e tensore della deformazione.pdf](13.3 analisi della deformazione in un intorno e tensore della deformazione.pdf) |
+| Interpretazione delle componenti diagonali di E   |           | [13.4.1 interpretazione delle componenti diagonali di E.explain](13.4.1 interpretazione delle componenti diagonali di E.explain) | [13.4.1 interpretazione delle componenti diagonali di E.pdf](13.4.1 interpretazione delle componenti diagonali di E.pdf) |
+| Interpretazione delle componenti di e fuori diagonale |         | [13.4.2 interpretazione delle componenti di e fuori diagonale.explain](13.4.2 interpretazione delle componenti di e fuori diagonale.explain) | [13.4.2 interpretazione delle componenti di e fuori diagonale.pdf](13.4.2 interpretazione delle componenti di e fuori diagonale.pdf) |
+| Formula di Cauchy per la deformazione              |           | [13.5 formula di cauchy per la deformazione.explain](13.5 formula di cauchy per la deformazione.explain) | [13.5 formula di cauchy per la deformazione.pdf](13.5 formula di cauchy per la deformazione.pdf) |
+| Analisi della tensione                             |           | [14.2 analisi della tensione.explain](14.2 analisi della tensione.explain) | [14.2 analisi della tensione.pdf](14.2 analisi della tensione.pdf) |
+| Tensioni e direzioni principali                    |           | [14.3 tensioni e direzioni principali.explain](14.3 tensioni e direzioni principali.explain) | [14.3 tensioni e direzioni principali.pdf](14.3 tensioni e direzioni principali.pdf) |
+| Stati piani e cerchi di Mohr                       |           | [14.7 stati piani e cerchi di mohr.explain](14.7 stati piani e cerchi di mohr.explain) | [14.7 stati piani e cerchi di mohr.pdf](14.7 stati piani e cerchi di mohr.pdf) |
+| Legge di Hooke generalizzata                       |           | [15.3 legge di Hooke generalizzata.explain](15.3 legge di Hooke generalizzata.explain) | [15.3 legge di Hooke generalizzata.pdf](15.3 legge di Hooke generalizzata.pdf) |
+| Problema di Saint Venant                           |           | [17 problema di saint venant.explain](17 problema di saint venant.explain) | [17 problema di saint venant.pdf](17 problema di saint venant.pdf) |
+| Forza normale centrata                             |           | [18.3 forza normale centrata.explain](18.3 forza normale centrata.explain) | [18.3 forza normale centrata.pdf](18.3 forza normale centrata.pdf) |
+| Flessione uniforme retta                           |           | [18.3 flessione uniforme retta.explain](18.3 flessione uniforme retta.explain) | [18.3 flessione uniforme retta.pdf](18.3 flessione uniforme retta.pdf) |
+| Flessione deviata                                  |           | [19.2 flessione deviata .explain](19.2 flessione deviata .explain) | [19.2 flessione deviata .pdf](19.2 flessione deviata .pdf)   |
+| Presso-tenso flessione deviata                     |           | [19.2 presso-tenso flessione deviata.explain](19.2 presso-tenso flessione deviata.explain) | [19.2 presso-tenso flessione deviata.pdf](19.2 presso-tenso flessione deviata.pdf) |
+| Torsione uniforme nelle sezioni circolari          |           | [20.2 torsione uniforme nelle sezioni circolari.explain](20.2 torsione uniforme nelle sezioni circolari.explain) | [20.2 torsione uniforme nelle sezioni circolari.pdf](20.2 torsione uniforme nelle sezioni circolari.pdf) |
+| Analogia idrodinamica e sezioni aperte sottili     |           | [20.4 Analogia idrodinamica e sezioni aperte sottili.explain](20.4 Analogia idrodinamica e sezioni aperte sottili.explain) | [20.4 Analogia idrodinamica e sezioni aperte sottili.pdf](20.4 Analogia idrodinamica e sezioni aperte sottili.pdf) |
+| Teoria di Bredt                                    |           | [20.7 teoria di bredt.explain](20.7 teoria di bredt.explain) | [20.7 teoria di bredt.pdf](20.7 teoria di bredt.pdf)         |
+| Sezioni sottili composte                          |           | [20.8 sezioni sottili composte.explain](20.8 sezioni sottili composte.explain) | [20.8 sezioni sottili composte.pdf](20.8 sezioni sottili composte.pdf) |
+| Criteri di resistenza                              |           | [22 criteri di resistenza.explain](22 criteri di resistenza.explain) | [22 criteri di resistenza.pdf](22 criteri di resistenza.pdf) |
+| Criteri di resistenza per il solido di Saint Venant |         | [24.2.2 criteri di resistenza per il solido di saint venant.explain](24.2.2 criteri di resistenza per il solido di saint venant.explain) | [24.2.2 criteri di resistenza per il solido di saint venant.pdf](24.2.2 criteri di resistenza per il solido di saint venant.pdf) |
+| Area e baricentro                                  |           | [A1 area e baricentro.explain](A1 area e baricentro.explain) | [A1 area e baricentro.pdf](A1 area e baricentro.pdf)         |
+| Momenti d'inerzia - Formule di trasporto - Mom princ - Ellisse inerzia | | [A2-A5 momenti d'inerzia - formule di trasporto -mom princ - ellisse inerzia.explain](A2-A5 momenti d'inerzia - formule di trasporto -mom princ - ellisse inerzia.explain) | [A2-A5 momenti d'inerzia - formule di trasporto -mom princ - ellisse inerzia.pdf](A2-A5 momenti d'inerzia - formule di trasporto -mom princ - ellisse inerzia.pdf) |
+|                                                    |           | [Cerchi di Mohr 2.explain](Cerchi di Mohr 2.explain)         | [Cerchi di Mohr 2.pdf](Cerchi di Mohr 2.pdf)                 |
+|                                                    |           | [Cerchi di Mohr 1 1.explain](Cerchi di Mohr 1 1.explain)     | [Cerchi di Mohr 1 1.pdf](Cerchi di Mohr 1 1.pdf)             |
+|                                                    |           | [Cerchi di Mohr 1 2.explain](Cerchi di Mohr 1 2.explain)     | [Cerchi di Mohr 1 2.pdf](Cerchi di Mohr 1 2.pdf)             |
+|                                                    |           | [Cerchi di Mohr 1 1 2.explain](Cerchi di Mohr 1 1 2.explain) | [Cerchi di Mohr 1 1 2.pdf](Cerchi di Mohr 1 1 2.pdf)         |
+| Diagrammi delle caratteristiche della sollecitazione |           | [6.7 esercizio esame 16.7.2023.explain](6.7 esercizio esame 16.7.2023.explain) | [6.7 esercizio esame 16.7.2023.pdf](6.7 esercizio esame 16.7.2023.pdf) |
+|                                                      |           |                                                              |                                                              |
+|                                                      |           |                                                              |                                                              |
 
-[Cap 19. Flessione deviata, tensoflessione, pressoflessione](cap19)
 
-[Cap 20. Torsione uniforme](cap20)
-
-[Cap 22. Criteri di resistenza](cap22)
-
-[Cap 24. La trave: analisi e verifica strutturale](cap24)
-
-<script type="text/javascript" src="https://freevisitorcounters.com/en/home/counter/905518/t/0"></script>
 
