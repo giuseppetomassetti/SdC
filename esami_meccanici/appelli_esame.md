@@ -5,6 +5,8 @@ La versione per ipad e iphone è scaricabile presso questo indirizzo: https://ww
 
 
 
+
+
 ## Appello del 17 luglio 2023
 
 [Esercizi](20230717.docx) 
