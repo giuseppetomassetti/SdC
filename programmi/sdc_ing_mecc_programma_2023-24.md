@@ -1,4 +1,4 @@
-# Regolamento AA 2023-24
+# Regolamento e programma AA 2023-24
 
 ---
 
@@ -29,6 +29,8 @@ L'appello d'esame consiste in una prova scritta e una prova orale. La prova scri
 ---
 
 ## Programma d'esame
+
+NB: l'elenco degli argomenti non corrisponde all'ordine con il quale sono stati trattati.
 
 ### **Prima parte**
 
