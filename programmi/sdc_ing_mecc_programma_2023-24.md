@@ -4,16 +4,20 @@
 
 ## Modalita` di esame
 
-L'appello d'esame consiste in una prova scritta e una prova orale. La prova scritta consiste nella risoluzione di problemi e in un test di teoria. Sono esonerati dal test di teoria i candidati iscritti **per la prima volta** a un appello d'esame di Scienza delle Costruzioni nell'anno accademico corrente. E' possibile accedere alla prova orale solo se la prova scritta risulta sufficiente. 
+L'appello d'esame consiste in una prova scritta e una prova orale. La prova scritta consiste nella risoluzione di problemi e in un test di teoria. Sono esonerati dal test di teoria i candidati iscritti **non piu' di due volte** a un appello d'esame di Scienza delle Costruzioni nell'anno accademico corrente. E' possibile accedere alla prova orale solo se la prova scritta risulta sufficiente. 
 
-**Fanno parte integrante del programma d'esame** le esercitazioni proposte sulla piattaforma moodle durante il corso. 
+Quando possibile, le prove scritte verranno svolte in Piazza Telematica, Via Ostiense 133b palazzina D, oppure in Aula Campus, situata al piano terra dell’edificio “ex OMI”, in via della Vasca Navale in prossimita’ dell’entrata del civico 81.
 
-- Le esercitazioni devono essere redatte **a mano** **su carta**.
-- Le scansioni delle esercitazioni devono essere **caricate sulla piattaforma moodle** con almeno **una settimana di anticipo** rispetto alla data della prova scritta. 
+ATTENZIONE: Il giorno dell’esame occorre essere muniti di **password per accedere a moodle**.
 
-- La copia cartacea delle esercitazioni **va** **esibita** il giorno della prova scritta.
+Sono parte integrante del programma d’esame le esercitazioni proposte sulla piattaforma moodle.
 
-È possibile consegnare le esercitazioni relative all'A.A. durante il quale si è seguito il corso.
+- Per poter sostenere l’esame e` obbligatorio redarre le esercitazioni su un quaderno o con un raccoglitore ad anelli da **consegnare** **il** **giorno** **della** **prova** **scritta**.
+- Le esercitazioni vanno scritte **a mano.**
+- Le esercitazioni possono essere svolte su carta oppure redatte con un tablet e stampate.
+- Le esercitazioni vanno redatte secondo le linee guida pubblicate sul sito del Corso.
+- Le scansioni delle esercitazioni vanno caricate su moodle prima della prova scritta. 
+- È possibile consegnare le esercitazioni relative all'A.A. durante il quale si è seguito il corso.
 
 ---
 
