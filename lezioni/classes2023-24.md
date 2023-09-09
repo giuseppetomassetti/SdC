@@ -1,7 +1,7 @@
 # Slide delle lezioni
 
 
-| Argomenti                                         | Slide PPT |                           Slide PDF                                              |
+| Titolo                                  | Contenuto |                           Slide                                              |
 | -------------------------------------------------- | ---------  ------------------------------------------------------------ | ------------------------------------------------------------ |
 |  |  |  |
 |Introduzione alla Scienza delle Costruzioni| |[introduzione alla scienza delle costruzioni.pptx](introduzione alla scienza delle costruzioni.pptx)|
@@ -12,15 +12,15 @@
 | Tensione tangenziale                                         |           | [tensione tangenziale.pptx](tensione tangenziale.pptx)       |
 |                                                              |           |  |
 | Tensore dello sforzo |           | [tensore dello sforzo.pptx](tensore dello sforzo.pptx) |
-| Stati tensionali piani e cerchi di Mohr                      |           | [cerchi di mohr.pptx](cerchi di mohr.pptx)                   |
-| Criteri di resistenza per stati di tensione piani            |           |                                                              |
+| Trasformazione delle tensioni e cerchi di Mohr per gli stati tensionali piani |           | [cerchi di mohr.pptx](cerchi di mohr.pptx)                   |
+| Criteri di resistenza per stati di tensione piani            |           | [criteri di resistenza 1.pptx](criteri di resistenza 1.pptx) |
 |                                                              |           |                                                              |
-|                                                              |           |                                                              |
+|  |           |                                                              |
 |  | | |
-| Caratteristiche della sollecitazione                         |           |                                                              |
-| Stato tensionale nella trave inflessa | ||
-|                                                              |           |                                                              |
-|                                                              |           |                                                              |
+| Caratteristiche della sollecitazione                         |           | [caratteristiche della sollecitazione.pptx](caratteristiche della sollecitazione.pptx) |
+| Sistemi di travi | ||
+|  |           |                                                              |
+| Stato tensionale nella trave inflessa |           |                                                              |
 |                                                              |           |                                                              |
 |                                                              |           |                                                              |
 |                                                              | ||
