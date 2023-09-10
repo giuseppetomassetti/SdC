@@ -9,24 +9,24 @@
 | Tensione normale | |[tensione normale.pptx](tensione normale.pptx)|
 | Travature reticolari | |[12 travature reticolari.pptx](12 travature reticolari.pptx)|
 | Dimensionamento di travature reticolari | |[dimensionamento_travature_reticolari.pptx](dimensionamento_travature_reticolari.pptx)|
-| Tensione tangenziale                                         |           | [tensione tangenziale.pptx](tensione tangenziale.pptx)       |
-|                                                              |           |  |
-| Tensore dello sforzo |           | [tensore dello sforzo.pptx](tensore dello sforzo.pptx) |
-| Trasformazione delle tensioni e cerchi di Mohr per gli stati tensionali piani |           | [cerchi di mohr.pptx](cerchi di mohr.pptx)                   |
+| Tensione tangenziale                                      |           | [tensione tangenziale.pptx](tensione tangenziale.pptx)       |
+| Tensore dello sforzo (15m) |           | [tensore dello sforzo.pptx](tensore dello sforzo.pptx) |
+| Trasformazione delle tensioni e cerchi di Mohr per gli stati tensionali piani (45m) |           | [cerchi di mohr.pptx](cerchi di mohr.pptx)                   |
 | Criteri di resistenza per stati di tensione piani            |           | [criteri di resistenza 1.pptx](criteri di resistenza 1.pptx) |
+| Caratteristiche della sollecitazione (20m)                   |           | [caratteristiche della sollecitazione.pptx](caratteristiche della sollecitazione.pptx)<br /> [Azioni interne.explain](Azioni interne.explain)  [Azioni interne.pdf](Azioni interne.pdf) |
+| Stato tensionale nelle travi soggette a trazione, flessione e torsione (50m) |           | [Stato di tensione in una trave.pdf](Stato di tensione in una trave.pdf)  [Stato di tensione in una trave.explain](Stato di tensione in una trave.explain) |
+| Statica dei sistemi di travi                                 |           |                                                              |
+| Diagrammi delle caratteristiche della sollecitazione         | | |
+| Verifiche di resistenza                                      |           |                                                              |
+|                                                              |           |                                                              |
 |                                                              |           |                                                              |
 |  |           |                                                              |
-|  | | |
-| Caratteristiche della sollecitazione                         |           | [caratteristiche della sollecitazione.pptx](caratteristiche della sollecitazione.pptx) |
-| Sistemi di travi | ||
+|                                                              |           |                                                              |
 |  |           |                                                              |
-| Stato tensionale nella trave inflessa |           |                                                              |
-|                                                              |           |                                                              |
-|                                                              |           |                                                              |
 |                                                              | ||
 |                                                              |           |                                                              |
-| Stato tensionale nelle travi soggette a torsione e verifiche di resistenza | ||
-| Verifiche di resistenza per sollecitazioni composte | ||
+|  | ||
+|  | ||
 |  | ||
 | Problema statico, strutture staticamente indeterminate | ||
 | Dilatazione e di scorrimento | |[deformazione.pptx](deformazione.pptx)|
