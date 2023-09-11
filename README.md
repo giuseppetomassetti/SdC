@@ -1,26 +1,26 @@
-# Risorse corso di Scienza delle Costruzioni
+# Scienza delle Costruzioni per Ingegneria Meccanica e Ingegneria delle Tecnologie per il Mare
 
-[Programma d'esame](./programmi/index)
+[Regolamenti e programmi d'esame](./programmi/index)
 
-[Errata libro di testo](errata_testo.md)
+[Errata del testo Casini-Vasta](errata_testo.md)
 
 [Notebook del corso AA2021-22](https://uniroma3.sharepoint.com/sites/AA2122-SCIENZADELLECOSTRUZIONI-20801971TOMASSETTI/_layouts/OneNote.aspx?id=%2Fsites%2FAA2122-SCIENZADELLECOSTRUZIONI-20801971TOMASSETTI%2FSiteAssets%2FBlocco%20appunti%20AA21-22%20-%20SCIENZA%20DELLE%20COSTRUZIONI%20-%2020801971%20%28TOMASSETTI%29&wd=target%28Sdc%20Ing%20Mec%202021-22%29)
 
+---
 
+# [Appunti](./lezioni/classes)
 
-## Files .explain del corso
-
-[Lezioni](./lezioni/classes)
+---
 
 ## Modalità di esame
 
 [Pagina esplicativa sulle modalità di esame su terminale](Modalità di esame su terminale)
 
+---
 
+## [Appelli di esame per il corso di Ingegneria Meccanica e Ingegneria delle Tecnologie per il Mare](esami/appelli_esame)
 
-## [Appelli di esame per il corso di Ingegneria Meccanica](esami_meccanici/appelli_esame)
-
-
+---
 
 ## Esercitazioni per il corso di Ingegneria Meccanica
 
@@ -32,11 +32,17 @@ Nota bene: nelle esercitazioni degli anni passati potrete trovare **svolti molti
 
 **Vi consiglio dunque di studiarle con attenzione.**
 
+---
+
 ## Diagrammi delle caratteristiche della sollecitazione
 
 [Esercizio svolto sui diagrammi delle caratteristiche della sollecitazione (13 dicembre 2021)](https://web.microsoftstream.com/video/318289c4-c9d7-4a64-be66-f5cf327f5232?st=10)
 
 ![image-20211215220530455](resources.assets/image-20211215220530455.png)
+
+
+
+---
 
 ## Cerchi di Mohr
 
@@ -44,9 +50,9 @@ Nota bene: nelle esercitazioni degli anni passati potrete trovare **svolti molti
 
 [Software in linea per la visualizzazione dei cerchi di Mohr](https://mechanicalc.com/calculators/mohrs-circle/)
 
+---
 
-
-## Risorse video su argomenti facoltativi 
+## Risorse video
 
 ## [Travature reticolari](travature_reticolari/travature_reticolari)
 
@@ -54,7 +60,7 @@ Nota bene: nelle esercitazioni degli anni passati potrete trovare **svolti molti
 
 ## [Taglio non uniforme: formula di Jourawsky](taglio_non_uniforme/taglio_non_uniforme)
 
-
+---
 
 ## Risorse esterne
 
