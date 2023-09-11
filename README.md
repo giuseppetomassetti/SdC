@@ -8,7 +8,7 @@
 
 ---
 
-# [Appunti](./lezioni/classes)
+# [Appunti](./lezioni/classes2023-24-out)
 
 ---
 
