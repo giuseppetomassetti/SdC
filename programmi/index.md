@@ -1,5 +1,7 @@
 # Programmi d'esame
 
+[AA 2023-24](sdc_ing_mecc_programma_2023-24)
+
 [AA 2022-23](sdc_ing_mecc_programma_2022-23)
 
 [AA 2021-22](sdc_ing_mecc_programma_2021-22)

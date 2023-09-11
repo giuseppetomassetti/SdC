@@ -4,11 +4,13 @@
 
 ## Modalita` di esame
 
-L'appello d'esame consiste in una prova scritta e una prova orale. La prova scritta consiste nella risoluzione di problemi e in un test di teoria. Sono esonerati dal test di teoria i candidati iscritti **non piu' di due volte** a un appello d'esame di Scienza delle Costruzioni nell'anno accademico corrente. E' possibile accedere alla prova orale solo se la prova scritta risulta sufficiente. 
+L'appello d'esame consiste in una prova scritta e una prova orale. E' possibile accedere alla prova orale solo se la prova scritta risulta sufficiente. 
+
+La prova scritta consiste nella risoluzione di problemi e un quiz di tipo teorico. Sono esonerati dal quiz teorico i candidati iscritti **per la prima volta** a un appello d'esame di Scienza delle Costruzioni nell'anno accademico corrente. 
 
 Quando possibile, le prove scritte verranno svolte in Piazza Telematica, Via Ostiense 133b palazzina D, oppure in Aula Campus, situata al piano terra dell’edificio “ex OMI”, in via della Vasca Navale in prossimita’ dell’entrata del civico 81.
 
-ATTENZIONE: Il giorno dell’esame occorre essere muniti di **password per accedere a moodle**.
+==ATTENZIONE: Il giorno dell’esame occorre essere muniti di **password per accedere a moodle**.==
 
 Sono parte integrante del programma d’esame le esercitazioni proposte sulla piattaforma moodle.
 
@@ -23,10 +25,21 @@ Sono parte integrante del programma d’esame le esercitazioni proposte sulla pi
 
 ## Testi di riferimento
 
-- [Scienza delle Costruzioni, Edizione 2019 Di P. Casini e M. Vasta.](https://www.amazon.it/Scienza-delle-costruzioni-Paolo-Casini-dp-8825174276/dp/8825174276/ref=dp_ob_title_bk)
+Il testo di riferimento
+
 - [Meccanica dei solidi e delle strutture. Teoria e applicazioni. Edizione 2023 Di R. C. Hibbeler. Edizione italiana a cura di M. De Angelis, A. Reggio e G. Ruta](https://www.amazon.it/Meccanica-solidi-strutture-Teoria-applicazioni/dp/8891906794/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=251FHXQST207P&keywords=hibbeler+ruta&qid=1693474793&s=books&sprefix=hibbeler+ruta%2Cstripbooks%2C77&sr=1-1).
+
+Ulteriori riferimenti
+
+- [Scienza delle Costruzioni, Edizione 2019 Di P. Casini e M. Vasta.](https://www.amazon.it/Scienza-delle-costruzioni-Paolo-Casini-dp-8825174276/dp/8825174276/ref=dp_ob_title_bk)
+
 - [Scienza delle costruzioni. L'analisi della tensione nelle travi. Un software applicativo. Edizione 2019. Di A. Paolone, F. Vestroni e S. Vidoli.](https://www.amazon.it/costruzioni-Lanalisi-tensione-software-applicativo/dp/880818286X/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1HMEP2AYHNO8G&keywords=vidoli+vestroni+paolone&qid=1693475216&s=books&sprefix=vidoli+vestroni+paolon%2Cstripbooks%2C90&sr=1-1)
-- Slide messe a disposizione dal docente
+
+Per ulteriori esercizi si segnalano le seguenti dispense, reperibili su internet.
+
+[Prof. G. Alfano - *Appunti di Scienza delle Costruzioni*](https://www.docenti.unina.it/webdocenti-be/allegati/materiale-didattico/576878)
+
+[Sito del Prof. D.Zaccaria](https://moodle2.units.it/course/view.php?id=951)
 
 
 
@@ -34,7 +47,7 @@ Sono parte integrante del programma d’esame le esercitazioni proposte sulla pi
 
 ## Programma d'esame
 
-NB: l'elenco degli argomenti non corrisponde all'ordine con il quale sono stati trattati.
+Attenzione: gli argomenti
 
 ### **Prima parte**
 
