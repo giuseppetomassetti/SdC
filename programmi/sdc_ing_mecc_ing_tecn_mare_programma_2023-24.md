@@ -4,32 +4,38 @@
 
 ## Modalita` di esame
 
-L'appello d'esame consiste in una prova scritta e una prova orale. E' possibile accedere alla prova orale solo se la prova scritta risulta sufficiente. 
+L'appello d'esame consiste in una prova scritta e una prova orale. L'accesso alla prova orale e' condizionato al superamento della prova scritta. 
 
-La prova scritta consiste nella risoluzione di problemi e un quiz di tipo teorico. Sono esonerati dal quiz teorico i candidati iscritti **per la prima volta** a un appello d'esame di Scienza delle Costruzioni nell'anno accademico corrente. 
+La prova scritta consiste nella risoluzione di problemi e in un quiz di tipo teorico. Sono esonerati dal quiz teorico i candidati iscritti **per la prima volta** a un appello d'esame di Scienza delle Costruzioni nell'anno accademico corrente. Durante lo svolgimento della prova scritta 
 
 Quando possibile, le prove scritte verranno svolte in Piazza Telematica, Via Ostiense 133b palazzina D, oppure in Aula Campus, situata al piano terra dell’edificio “ex OMI”, in via della Vasca Navale in prossimita’ dell’entrata del civico 81.
 
 ==ATTENZIONE: Il giorno dell’esame occorre essere muniti di **password per accedere a moodle**.==
 
+### Esercitazioni
+
 Sono parte integrante del programma d’esame le esercitazioni proposte sulla piattaforma moodle.
 
-- Per poter sostenere l’esame e` obbligatorio redarre le esercitazioni su un quaderno o con un raccoglitore ad anelli da **consegnare** **il** **giorno** **della** **prova** **scritta**.
+- Per poter sostenere l’esame e` obbligatorio redarre le esercitazioni in un quaderno o mediante un raccoglitore ad anelli da **consegnare** **il** **giorno** **della** **prova** **scritta**.
 - Le esercitazioni vanno scritte **a mano.**
 - Le esercitazioni possono essere svolte su carta oppure redatte con un tablet e stampate.
 - Le esercitazioni vanno redatte secondo le linee guida pubblicate sul sito del Corso.
 - Le scansioni delle esercitazioni vanno caricate su moodle prima della prova scritta. 
 - È possibile consegnare le esercitazioni relative all'A.A. durante il quale si è seguito il corso.
 
+### Misure compensative per studenti con disabilita' certificata
+
+Come misura compensativa per lo svolgimento degli esami di profitto da parte degli studenti con disabilità certificata e/o con disturbi specifici dell’apprendimento certificati, in adeguamento alla specifica situazione di disagio, come previsto dalle leggi n. 17/1999 e n. 170/2010 e successive modificazioni, e' data possibilita' allo studente di far uso di schemi e mappe concettuali. Inoltre, a seconda della gravita' della disabilita', il punteggio della prova scritta sara' valutato dopo essere stato moltiplicato per un opportuno coefficiente moltiplicativo.
+
 ---
 
 ## Testi di riferimento
 
-Il testo di riferimento per la meccanica dei materiali 
+Il testo di riferimento per la la parte di meccanica dei materiali e':
 
 - [Meccanica dei solidi e delle strutture. Teoria e applicazioni. Edizione 2023 Di R. C. Hibbeler. Edizione italiana a cura di M. De Angelis, A. Reggio e G. Ruta](https://www.amazon.it/Meccanica-solidi-strutture-Teoria-applicazioni/dp/8891906794/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=251FHXQST207P&keywords=hibbeler+ruta&qid=1693474793&s=books&sprefix=hibbeler+ruta%2Cstripbooks%2C77&sr=1-1).
 
-Testo di riferimento per la meccanica delle strutture
+Testo di riferimento per la parte di meccanica delle strutture e':
 
 - [Scienza delle Costruzioni, Edizione 2019 Di P. Casini e M. Vasta.](https://www.amazon.it/Scienza-delle-costruzioni-Paolo-Casini-dp-8825174276/dp/8825174276/ref=dp_ob_title_bk)
 
@@ -56,7 +62,7 @@ Materiale disponibile su internet.
 
 ## Programma d'esame
 
-### **Prima parte**
+**Cenni di algebra e calcolo vettoriale e tensoriale**
 
 **Cinematica dei corpi rigidi**
 
@@ -174,10 +180,6 @@ Materiale disponibile su internet.
   - Metodo dei nodi
   - Metodo delle sezioni di Ritter
 - Le travi continue: Equazione dei tre momenti
-
-### Seconda parte
-
-**Cenni di algebra e calcolo vettoriale e tensoriale**
 
 **Il mezzo continuo: analisi della deformazione**
 
