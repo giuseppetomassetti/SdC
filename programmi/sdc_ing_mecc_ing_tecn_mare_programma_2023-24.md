@@ -16,16 +16,13 @@ ATTENZIONE: Il giorno dell’esame occorre essere muniti di **password per acced
 
 Sono parte integrante del programma d’esame le esercitazioni proposte sulla piattaforma moodle.
 
-- Per poter sostenere l’esame e` obbligatorio redarre tutte le esercitazioni in un quaderno o mediante un raccoglitore ad anelli da **consegnare** **il** **giorno** **della** **prova** **scritta**.
-- Le esercitazioni vanno scritte **a mano.**
-- Le esercitazioni possono essere svolte su carta oppure redatte con un tablet e stampate.
+- Le esercitazioni devono essere scritte a mano su carta o su tablet, scansionate, e caricate su moodle **almeno sette giorni prima** della prova scritta. Gli originali (o le stampe degli svolgimenti fatti su tablet) devono essere raccolti in un quaderno che andra' consegnato il giorno della prova scritta. 
 - Le esercitazioni vanno redatte secondo le linee guida pubblicate sul sito del Corso.
-- Le scansioni delle esercitazioni vanno caricate su moodle prima della prova scritta. 
 - È possibile consegnare le esercitazioni relative all'A.A. durante il quale si è seguito il corso.
 
 ### Misure compensative per studenti con disabilita' certificata
 
-Come misura compensativa per lo svolgimento degli esami di profitto da parte degli studenti con disabilità certificata e/o con disturbi specifici dell’apprendimento certificati, in adeguamento alla specifica situazione di disagio, come previsto dalle leggi n. 17/1999 e n. 170/2010 e successive modificazioni, e' data possibilita' allo studente di far uso di schemi e mappe concettuali. Inoltre, a seconda della gravita' della disabilita', il punteggio della prova scritta sara' valutato dopo essere stato moltiplicato per un opportuno coefficiente moltiplicativo.
+Come misura compensativa per lo svolgimento degli esami di profitto da parte degli studenti con disabilità certificata e/o con disturbi specifici dell’apprendimento certificati, in adeguamento alla specifica situazione di disagio, come previsto dalle leggi n. 17/1999 e n. 170/2010 e successive modificazioni, e' data possibilita' allo studente di far uso di schemi e mappe concettuali. Inoltre, a seconda della gravita' della disabilita', il punteggio della prova scritta sara' moltiplicato per un opportuno coefficiente.
 
 ---
 

@@ -22,7 +22,7 @@ Il materiale contenuto in questa pagina copre solo gli aspetti essenziali del pr
 |  | |  |
 | Diagrammi delle caratteristiche della sollecitazione: convenzioni nel tracciamento | Hibbeler, Sez. 3.2     | [Diagrammi delle caratteristiche della sollecitazione.explain](Diagrammi delle caratteristiche della sollecitazione.explain)  [Diagrammi delle caratteristiche della sollecitazione.pdf](Diagrammi delle caratteristiche della sollecitazione.pdf) |
 | Equazioni differenziali di equilibrio, condizioni di salto e condizioni al contorno per travi ad asse rettilineo |                                                | [Equazioni differenziali di equilibrio per travi ad asse rettilineo.pdf](Equazioni differenziali di equilibrio per travi ad asse rettilineo.pdf) <br />[Equazioni differenziali di equilibrio per travi ad asse rettilineo.explain](Equazioni differenziali di equilibrio per travi ad asse rettilineo.explain) |
-| Metodo grafico per il tracciamento dei diagrammi delle CdS   | Esempi di tracciamento qualitativo da Hibbeler |                                                              |
+| Metodo grafico per il tracciamento dei diagrammi delle CdS   | Hibbeler, Sez. |                                                              |
 |                                                              |                                                |                                                              |
 | Verifiche di resistenza                                      | Esempi da Hibbeler                             |                                                              |
 | Problema statico, strutture staticamente indeterminate       | Hibbeler, Krenk, Casini-Vasta   |                                                              |
