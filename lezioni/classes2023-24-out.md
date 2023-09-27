@@ -15,7 +15,7 @@ Il materiale contenuto in questa pagina copre solo gli aspetti essenziali del pr
 |  | | | |
 |Introduzione alla Scienza delle Costruzioni|||[introduzione alla scienza delle costruzioni.pptx](introduzione alla scienza delle costruzioni.pptx)|
 | Organizzazione dell'insegnamento |  |  |[organizzazione dell'insegnamento.pptx](organizzazione dell'insegnamento.pptx)|
-| Tensione normale | Hibbeler, Sez. 3.6, 7.2 | Hibbeler: Esempi 3.19, 3.20, 3.21, 3.22, 3.23; Problemi 3.22, 3.23,3.24,3.38, 3.39,3.41,3.42 |[travi caricate assialmente.pptx](travi caricate assialmente.pptx)<br />[esercizi su tensione normale e tangenziale.pptx](tensione normale.pptx)|
+| Tensione normale | Hibbeler, Sez. 3.6, 7.2 | Hibbeler: Esempi 3.19, 3.20, 3.21, 3.22, 3.23; Problemi 3.22, 3.23,3.24,3.38, 3.39,3.41,3.42 |[travi caricate assialmente.pptx](travi caricate assialmente.pptx)<br />[esercizi su tensione normale.pptx](tensione normale.pptx)|
 |  |  |  ||
 | Travature reticolari | Casini-Vasta Sez. 12.2 | Hibbeler: 3.30, 3.47<br />Casini-Vasta: Esempi 12.1 e 12.2; Esercizi E12.1, E12.2,E12.3,E12.4 |[12 travature reticolari.pptx](12 travature reticolari.pptx)<br />[dimensionamento_travature_reticolari.pptx](dimensionamento_travature_reticolari.pptx)|
 | Tensione tangenziale                                      | Hibbeler, Sez. 3.7 | Hibbeler: Esempi 3.23, 3.24, 3.25; Problemi 3.21, 3.25, 3.26, 3.27,3.28, 3.31, 3.32, 3.43, 3.44, 3.45 | [tensione tangenziale.pptx](tensione tangenziale.pptx)       |
