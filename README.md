@@ -18,7 +18,7 @@
 
 ---
 
-# [Videolezioni](Videolazioni_AA_2023-24.md)
+# [Videolezioni](./Videolezioni/Videolezioni.md)
 
 ---
 
