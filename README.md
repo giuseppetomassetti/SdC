@@ -8,13 +8,17 @@
 
 ---
 
+## Modalità di esame
+
+[Pagina esplicativa sulle modalità di esame su terminale](Modalità di esame su terminale)
+
+---
+
 # [Appunti](./lezioni/classes2023-24-out)
 
 ---
 
-## Modalità di esame
-
-[Pagina esplicativa sulle modalità di esame su terminale](Modalità di esame su terminale)
+# [Videolezioni](./Videolezioni/Videolezioni.md)
 
 ---
 
