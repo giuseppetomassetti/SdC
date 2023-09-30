@@ -1,3 +1,4 @@
+
 # Appunti dalle lezioni
 
 Il materiale contenuto in questa pagina copre solo gli aspetti essenziali del programma d'esame e non sostituisce i due testi di riferimento.
@@ -75,4 +76,7 @@ Il materiale contenuto in questa pagina copre solo gli aspetti essenziali del pr
  
 
  
+<head>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7584604920323586" crossorigin="anonymous"></script>
+</head>
 
