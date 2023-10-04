@@ -18,7 +18,7 @@
 
 ---
 
-# [Videolezioni](./Videolezioni/Videolezioni.md)
+# [Videolezioni](./videolezioni/videolezioni.md)
 
 ---
 
