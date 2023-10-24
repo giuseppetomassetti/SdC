@@ -14,6 +14,10 @@
 
 ---
 
+# [Piattaforma Mylab](./mylab/mylab.md)
+
+---
+
 # [Appunti](./lezioni/classes2023-24-out)
 
 ---
