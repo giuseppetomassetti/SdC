@@ -1,2 +1,5 @@
-Per accedere alla piattaforma mylab e svolgere gli esercizi assegnati, adoperare il codice corso: **22937**
-[Collegamento alla piattaforma mylab](ht.pearson.it)
+Sulla piattaforma MyLab di Pearson sono disponibili numerosi esercizi per verificare e approfondire la preparazione all'esame.
+
+Dopo esservi registrati sulla piattaforma mylab mediante il codice che trovate sul testo, dovrete adoperare il codice corso: **22937**
+
+[Collegamento alla piattaforma mylab](http://ht.pearson.it)
