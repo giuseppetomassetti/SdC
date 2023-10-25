@@ -2,4 +2,4 @@ Sulla piattaforma MyLab di Pearson sono disponibili numerosi esercizi per verifi
 
 Dopo esservi registrati sulla piattaforma mylab mediante il codice che trovate sul testo, dovrete adoperare il codice corso: **22937**
 
-[Collegamento alla piattaforma mylab](http://ht.pearson.it)
+[Istruzioni accesso MyLab corso Tomassetti[20].pdf](Istruzioni accesso MyLab corso Tomassetti[20].pdf) 
