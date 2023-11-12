@@ -5,6 +5,14 @@ La versione per ipad e iphone è scaricabile presso questo indirizzo: https://ww
 
 
 
+## Appello straordinario del 9 novembre 2023 per ingegneria meccanica
+
+https://ingegneriaindustrialeelettronicameccanica.el.uniroma3.it/course/view.php?id=777#section-5
+
+## Appello del 4 settembre 2023 per ingegneria meccanica
+
+https://ingegneriaindustrialeelettronicameccanica.el.uniroma3.it/course/view.php?id=777#section-4
+
 ## Appello del 17 luglio 2023
 
 [Esercizi](20230717.docx) 
@@ -55,7 +63,7 @@ Risposte
 
 [20220912_flessione_deviata.nb](20220912_flessione_deviata.nb) 
 
----
+------
 
 
 
@@ -113,6 +121,28 @@ Primo turno
 
 
 
-<script type="text/javascript" src="https://freevisitorcounters.com/en/home/counter/905518/t/0"></script>
 
-<script type="text/javascript" src="https://freevisitorcounters.com/en/home/counter/905518/t/0"></script>
+				HTML
+
+
+​					
+​				
+​				
+​						
+​				
+​			
+		<script type="text/javascript" src="https://freevisitorcounters.com/en/home/counter/905518/t/0"></script>
+
+
+​			
+				HTML
+
+
+​					
+​				
+​				
+​						
+​				
+​			
+
+		<script type="text/javascript" src="https://freevisitorcounters.com/en/home/counter/905518/t/0"></script>
