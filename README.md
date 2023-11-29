@@ -74,11 +74,13 @@ Nota bene: nelle esercitazioni degli anni passati potrete trovare **svolti molti
 
 Applicazione per esercitarsi Schnittkraftmeister https://www.tugraz.at/institute/ifb/software/schnittkraftmeister/
 
-Applicazione [Explain Everything](https://explaineverything.com/) per aprire i file in formato .explain che vi permettono la visualizzazione "animata degli appunti".
+Applicazione [Explain Everything](https://explaineverything.com/) per aprire i file in formato .explain che vi permettono la visualizzazione "animata degli appunti"[.](./cg.mp4)
 
 "Paolone, Vestroni, Vidoli: Scienza delle Costruzioni: l'analisi della tensione nelle travi. Un software applicativo. Casa Editrice Ambrosiana" contenente dSVSolve, un pacchetto di *Mathematica* per risolvere esercizi di Scienza delle Costruzioni. Per istruzioni consultare questa pagina: [stefanovidoli - DIDATTICA (uniroma1.it)](https://stefanovidoli.site.uniroma1.it/insegnamenti)
 
 Pagina con le istruzioni per scaricare il software Wolfram Mathematica per gli studenti di Roma Tre: [Wolfram Mathematica - Università Roma Tre (uniroma3.it)](https://www.uniroma3.it/servizi/software-in-convenzione/wolfram-mathematica/)
+
+
 
 ---
 
