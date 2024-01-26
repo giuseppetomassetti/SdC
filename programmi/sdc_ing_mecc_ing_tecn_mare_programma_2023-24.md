@@ -6,9 +6,13 @@
 
 L'appello d'esame consiste in una prova scritta e una prova orale. L'accesso alla prova orale e' condizionato al superamento della prova scritta. 
 
-La prova scritta consiste nella risoluzione di problemi e in un quiz di tipo teorico. Sono esonerati dal quiz teorico i candidati iscritti **per la prima volta** a un appello d'esame di Scienza delle Costruzioni nell'anno accademico corrente (**NB: l'iscrizione all'appello viene conteggiata anche se il candidato risulta assente**). 
+La prova scritta consiste nella risoluzione di problemi e in un quiz di tipo teorico. Sono esonerati dal quiz teorico i candidati iscritti **per la prima volta** a un appello d'esame di Scienza delle Costruzioni nell'anno accademico corrente.
 
-La prenotazione alla prova scritta va effettuata **con almeno una settimana di anticipo**, in modo da permettermi di verificare che i candidati abbiano caricato su moodle le esercitazioni.
+ **ATTENZIONE: **
+
+- L'iscrizione all'appello viene conteggiata anche se il candidato risulta assente.
+
+- La scadenza per le prenotazioni è **una settimana prima della prova scritta**. Dopo tale scadenza non è possibile iscriversi o cancellare la propria prenotazione
 
 Lo studente deve presentarsi alla prova scritta munito di un numero sufficiente di fogli A4 bianchi. Di questi, quelli adoperati per la redazione del compito andranno numerati progressivamente, e il primo dovra' riportare nome, cognome e firma. 
 
