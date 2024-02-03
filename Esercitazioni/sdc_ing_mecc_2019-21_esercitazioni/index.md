@@ -190,6 +190,12 @@ Svolgimento:  [Circonferenza di Mohr.pdf](Circonferenza di Mohr.pdf)
 
 ### Problema: Legame inverso
 
+![image-20240203171205450](index.assets/image-20240203171205450.png)
+
+[legame costitutivo elastico lineare isotropo.pdf](legame costitutivo elastico lineare isotropo.pdf) 
+
+
+
 ![image-20210517181152269](index.assets/image-20210517181152269.png)
 
 Svolgimento: [legame inverso.pdf](legame inverso.pdf) 
