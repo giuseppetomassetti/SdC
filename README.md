@@ -22,10 +22,6 @@
 
 ---
 
-# [Videolezioni](./videolezioni/videolezioni.md)
-
----
-
 ## [Appelli di esame per il corso di Ingegneria Meccanica e Ingegneria delle Tecnologie per il Mare](esami/appelli_esame)
 
 ## [Appunti prove orali](./Orali/orali.md)
