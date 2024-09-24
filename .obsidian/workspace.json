@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programmi/Regolamento-d-esame.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programmi/Regolamento-d-esame.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programmi/Regolamento-d-esame.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programmi/Regolamento-d-esame.md"
+                "file": "README.md"
               }
             }
           }
@@ -173,11 +173,11 @@
   },
   "active": "c7cdd4e52b175196",
   "lastOpenFiles": [
+    "programmi/Regolamento-d-esame.md",
     "programmi/AA 2024-25.md",
     "programmi/classes2023-24-out.md",
     "programmi/index.md",
     "README.md",
-    "programmi/Regolamento-d-esame.md",
     "programmi/Programma-2024-25.md",
     "programmi/sdc_ing_mecc_programma_2022-23.md",
     "programmi/Testi.md",

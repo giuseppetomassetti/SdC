@@ -1,6 +1,6 @@
 # Scienza delle Costruzioni per Ingegneria Meccanica e Ingegneria delle Tecnologie per il Mare
 
-[AA 2024-25](programmi/AA%202024-25.md)
+[AA 2024-25](programmi/AA%202024-25)
 
 [Regolamenti e programmi d'esame fino all'AA 2023-24](./programmi/index)
 
