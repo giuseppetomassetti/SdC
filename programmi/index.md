@@ -1,6 +1,4 @@
-# Regolamenti e programmi d'esame
-
-[AA 2024-25](Programma%202024-25.md)
+# Regolamenti e programmi d'esame fino all'AA 2023-24
 
 [AA 2023-24](sdc_ing_mecc_ing_tecn_mare_programma_2023-24)
 
