@@ -1,23 +1,27 @@
-# Regolamento e programma AA 2023-24
-# Regolamento e programma AA 2023-24
+
+# Regolamento e programma d'esame AA 2024-25
 
 ---
 
-## Modalita` di esame
+## Modalità di verifica della preparazione
 
 L'appello d'esame consiste in una prova scritta e una prova orale. L'accesso alla prova orale e' condizionato al superamento della prova scritta. 
 
 La prova scritta consiste nella risoluzione di problemi e in un quiz di tipo teorico. Sono esonerati dal quiz teorico i candidati iscritti **per la prima volta** a un appello d'esame di Scienza delle Costruzioni nell'anno accademico corrente.
 
- **ATTENZIONE: **
+ **ATTENZIONE:**
 
 - L'iscrizione all'appello viene conteggiata anche se il candidato risulta assente.
 
 - La scadenza per le prenotazioni è **una settimana prima della prova scritta**. Dopo tale scadenza non è possibile iscriversi o cancellare la propria prenotazione
 
-Lo studente deve presentarsi alla prova scritta munito di un numero sufficiente di fogli A4 bianchi. Di questi, quelli adoperati per la redazione del compito andranno numerati progressivamente, e il primo dovra' riportare nome, cognome e firma. 
+## Regolamento d'esame
 
-Durante lo svolgimento della prova scritta non e' consentito l'uso di altro materiale (libri, appunti, note, schemi, etc, a meno che cio' sia stato concordato come misura compensativa). 
+1) Lo studente deve presentarsi alla prova scritta munito di un numero sufficiente di fogli A4 bianchi. 
+
+2) Lo svolgimento del compito va scritto a penna (nera o blu) su una sola facciata. I fogli vanno numerati progressivamente, e il primo dovra' riportare nome, cognome, data firma, e numero di foglio. 
+
+3) Durante lo svolgimento della prova scritta è consentito l'utilizzo di una calcolatrice scientifica non programmabile, ma non è consentito l'uso di altro materiale (libri, appunti, note, schemi, etc, a meno che cio' sia stato concordato come misura compensativa). 
 
 Quando possibile, le prove scritte verranno svolte in Piazza Telematica, Via Ostiense 133b palazzina D, oppure in Aula Campus, situata al piano terra dell’edificio “ex OMI”, in via della Vasca Navale in prossimita’ dell’entrata del civico 81.
 
@@ -27,8 +31,10 @@ ATTENZIONE: Il giorno dell’esame occorre essere muniti di **password per acced
 
 Sono parte integrante del programma d’esame le esercitazioni proposte sulla piattaforma moodle.
 
-- Le esercitazioni devono essere scritte a mano su carta o su tablet, scansionate, e caricate su moodle **almeno sette giorni prima** della prova scritta. Gli originali (o le stampe degli svolgimenti fatti su tablet) devono essere raccolti in un quaderno che **andra' consegnato al docente il giorno della prova scritta, pena l'esclusione dalla prova.**
+- Le esercitazioni devono essere scritte a mano su carta o su tablet, scansionate, e caricate su moodle **almeno sette giorni prima** della prova scritta. Gli originali (o le stampe degli svolgimenti fatti su tablet) devono essere raccolti in un quaderno che **andra' consegnato al docente il giorno della prova scritta, pena l'esclusione dalla prova.
+  **
 - Le esercitazioni vanno redatte secondo le linee guida pubblicate sul sito del Corso.
+  
 - È possibile consegnare le esercitazioni relative all'A.A. durante il quale si è seguito il corso.
 
 ### Misure compensative per studenti con disabilita' certificata
@@ -47,7 +53,7 @@ Testo di riferimento per la parte di meccanica delle strutture e':
 
 - [Scienza delle Costruzioni, Edizione 2019 Di P. Casini e M. Vasta.](https://www.amazon.it/Scienza-delle-costruzioni-Paolo-Casini-dp-8825174276/dp/8825174276/ref=dp_ob_title_bk)
 
-Testi di consultazione
+## Testi di consultazione
 
 - [P. Podio-Guidugli, Lezioni di Scienza delle Costruzioni](https://www.amazon.it/Lezioni-scienza-delle-costruzioni-Guidugli/dp/8854827703/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=R050JJD13WJL&keywords=podio+guidugli+scienza+delle+costruzioni&qid=1694430951&sprefix=podio+guidugli+scienza+delle+costruzioni%2Caps%2C155&sr=8-1)
 - [R. Paroni, Scienza Delle Costruzioni: Elementi Di Teoria Dell'elasticità Lineare](https://www.amazon.it/Scienza-Delle-Costruzioni-Elementi-Dellelasticit%C3%A0/dp/8847040191/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=28P1NHVFFZEH4&keywords=paroni+scienza+delle+costruzioni&qid=1694430863&sprefix=paroni+scienza+delle+costruzioni%2Caps%2C165&sr=8-1)
@@ -55,14 +61,13 @@ Testi di consultazione
 - [S. Krenk, Statics and Mechanics of Structures (in inglese) ](https://www.amazon.it/Statics-Mechanics-Structures-Steen-Krenk/dp/9400761120/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2QXXHD1GNNRPB&keywords=krenk+structures&qid=1694436261&sprefix=krenk+structure%2Caps%2C168&sr=8-1)
 - [L. Anand & S. Govindjee, Continuum Mechanics of Solids (in inglese)](https://www.amazon.it/Continuum-Mechanics-Solids-Oxford-Graduate/dp/0198864728)
 
-Materiale disponibile su internet.
+## Materiale disponibile su internet.
 
 [Prof. C. Franciosi - Materiale didattico](http://www.scienzadellecostruzioni.co.uk/materiale.html)
 
 [Prof. G. Alfano - *Appunti di Scienza delle Costruzioni*](https://www.docenti.unina.it/webdocenti-be/allegati/materiale-didattico/576878)
 
 [Sito del Prof. D.Zaccaria](https://moodle2.units.it/course/view.php?id=951)
-
 
 
 ---
@@ -100,7 +105,7 @@ Materiale disponibile su internet.
   -  Equazioni cardinali della statica
   - Posizione del problema
   - Classificazione statica
-- Dualita` statico-cinematica
+- Dualità statico-cinematica
 
 **Cinematica della trave**
 

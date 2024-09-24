@@ -30,7 +30,7 @@
 
 ## Esercitazioni per il corso di Ingegneria Meccanica
 
-[Indicazioni per lo svolgimento delle esercitazioni](svolgimento_esercitazioni\main.pdf) 
+[Indicazioni per lo svolgimento delle esercitazioni](svolgimento_esercitazioni/main.pdf) 
 
 Nella [seguente pagina](Esercitazioni/esercitazioni.md) riporto degli svolgimenti di esercitazioni molto ben curati, gentilmente forniti dagli studenti, **che ringrazio vivamente.**
 

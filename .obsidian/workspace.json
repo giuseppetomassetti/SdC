@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources.md",
+                "file": "programmi/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51e0d3e8294ee0fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programmi/Programma 2024-25.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources.md",
+                "file": "programmi/Programma 2024-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources.md",
+                "file": "programmi/Programma 2024-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources.md"
+                "file": "programmi/Programma 2024-25.md"
               }
             }
           }
@@ -146,11 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e226c43d2dfdcc10",
+  "active": "51e0d3e8294ee0fd",
   "lastOpenFiles": [
-    "programmi/sdc_ing_mecc_ing_tecn_mare_programma_2023-24.md",
-    "programmi/index_casini_vasta.md",
     "programmi/index.md",
+    "README-old.md",
+    "svolgimento_esercitazioni/main.pdf",
+    "svolgimento_esercitazioni/main.pdf.md",
+    "programmi/Programma 2024-25.md",
+    "programmi/sdc_ing_mecc_ing_tecn_mare_programma_2023-24.md",
+    "regolamento_esame.md",
+    "resources.md",
+    "programmi/index_casini_vasta.md",
     "programmi/classes2023-24-out.md",
     "Esercitazioni2023-24/Esercitazione1.pdf"
   ]
