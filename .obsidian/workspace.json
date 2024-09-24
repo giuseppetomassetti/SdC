@@ -42,6 +42,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a277c444fc8c0c3e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "svolgimento_esercitazioni/main.pdf"
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -173,16 +183,18 @@
   },
   "active": "c7cdd4e52b175196",
   "lastOpenFiles": [
-    "programmi/Regolamento-d-esame.md",
+    "svolgimento_esercitazioni/main.pdf",
+    "README.md",
+    "programmi/Testi.md",
+    "Guida Latex.md",
+    "programmi/Programma-2024-25.md",
     "programmi/AA 2024-25.md",
+    "programmi/AA 2024-25~.md",
+    "programmi/Regolamento-d-esame.md",
     "programmi/classes2023-24-out.md",
     "programmi/index.md",
-    "README.md",
-    "programmi/Programma-2024-25.md",
     "programmi/sdc_ing_mecc_programma_2022-23.md",
-    "programmi/Testi.md",
     "programmi/Programma 2024-25~.md",
-    "svolgimento_esercitazioni/main.pdf",
     "svolgimento_esercitazioni/main.pdf.md",
     "programmi/sdc_ing_mecc_ing_tecn_mare_programma_2023-24.md",
     "regolamento_esame.md",

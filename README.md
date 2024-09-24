@@ -1,4 +1,4 @@
-# Scienza delle Costruzioni per Ingegneria Meccanica e Ingegneria delle Tecnologie per il Mare
+# Scienza delle Costruzioni per Ingegneria Meccanica (sedi di Roma e Ostia)
 
 [AA 2024-25](programmi/AA%202024-25)
 
@@ -15,6 +15,15 @@
 [Pagina esplicativa sulle modalità di esame su terminale](Modalità di esame su terminale)
 
 ---
+## Esercitazioni
+
+[Indicazioni per lo svolgimento delle esercitazioni](svolgimento_esercitazioni/main.pdf) 
+
+Nella [seguente pagina](Esercitazioni/esercitazioni.md) riporto degli svolgimenti di esercitazioni molto ben curati, gentilmente forniti dagli studenti, **che ringrazio vivamente.**
+
+Nota bene: nelle esercitazioni degli anni passati potrete trovare **svolti molti degli esercizi proposti nel libro di testo**. 
+
+---
 
 # [Piattaforma Mylab](./mylab/mylab.md)
 
@@ -27,18 +36,6 @@
 ## [Appelli di esame per il corso di Ingegneria Meccanica e Ingegneria delle Tecnologie per il Mare](esami/appelli_esame)
 
 ## [Appunti prove orali](./Orali/orali.md)
-
----
-
-## Esercitazioni per il corso di Ingegneria Meccanica
-
-[Indicazioni per lo svolgimento delle esercitazioni](svolgimento_esercitazioni/main.pdf) 
-
-Nella [seguente pagina](Esercitazioni/esercitazioni.md) riporto degli svolgimenti di esercitazioni molto ben curati, gentilmente forniti dagli studenti, **che ringrazio vivamente.**
-
-Nota bene: nelle esercitazioni degli anni passati potrete trovare **svolti molti degli esercizi proposti nel libro di testo**. 
-
-**Vi consiglio dunque di studiarle con attenzione.**
 
 ---
 
