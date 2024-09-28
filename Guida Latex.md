@@ -1,6 +1,8 @@
 # Guida per Scrivere Formule in LaTeX su Moodle
 
-In Moodle, puoi utilizzare LaTeX per scrivere formule matematiche.
+Alcuni dei problemi e quiz su Moodle richiedono di scrivere la risposta in un campo di testo.
+
+In questa pagina riassumo le basi per  scrivere formule matematiche nel campo testo Moodle adoperando la sintassi del linguaggio LaTeX.
 
 Ecco come farlo utilizzando i delimitatori corretti per Moodle.
 
