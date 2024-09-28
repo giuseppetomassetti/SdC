@@ -25,11 +25,15 @@ Nota bene: nelle esercitazioni degli anni passati potrete trovare **svolti molti
 
 ---
 
+# [Prerequisiti di Statica](./Prerequisiti_di_Statica.md)
+
+---
+
 # [Piattaforma Mylab](./mylab/mylab.md)
 
 ---
 
-# [Appunti](./lezioni/classes2023-24-out)
+# [Appunti AA2023-24](./lezioni/classes2023-24-out)
 
 ---
 
