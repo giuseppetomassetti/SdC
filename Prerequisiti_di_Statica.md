@@ -1,4 +1,4 @@
-# Prerequisiti di Statica
+# Prerequisiti di Statica del Corpo Rigido
 
 Riferimento: Hibbeler, Engineering Mechanics - Statics. Pearson.
 
