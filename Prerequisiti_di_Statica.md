@@ -20,13 +20,13 @@ Vettori di Posizione: Comprendere la definizione di vettore di posizione.
 Forza Diretta lungo una Linea: Essere in grado di calcolare la forza lungo una linea definita da vettori.
 Prodotto Scalare (Dot Product): Conoscenza del prodotto scalare e della sua applicazione nei problemi di meccanica.
 
-## Capitolo 3: Equilibrio di un punto materiale
+## 3: Equilibrio di un punto materiale
 Condizione di Equilibrio di una Particella: Comprendere quando una particella è in equilibrio.
 Diagramma del Corpo Libero (Free-Body Diagram): Essere in grado di rappresentare graficamente le forze che agiscono su un corpo.
 Sistemi di Forze Coplanari: Capacità di risolvere problemi con sistemi di forze nel piano.
 Sistemi di Forze Tridimensionali: Conoscenza delle forze in sistemi tridimensionali.
 
-## Capitolo 4: Risultanti di un sistema di Forze
+## 4: Risultanti di un sistema di Forze
 Momento di una Forza (Formula Scalari): Comprendere il concetto di momento di una forza e il suo calcolo.
 Prodotto Vettoriale (Cross Product): Conoscenza del prodotto vettoriale e della sua applicazione per calcolare momenti.
 Momento di una Forza (Formula Vettoriale): Essere in grado di calcolare il momento di una forza usando il prodotto vettoriale.
@@ -37,9 +37,27 @@ Semplificazione di un Sistema di Forze e Coppie: Capacità di semplificare un si
 Semplificazione Ulteriore di Sistemi di Forze e Coppie: Applicare ulteriori tecniche di semplificazione.
 Riduzione di Carichi Distribuiti: Essere in grado di ridurre un carico distribuito in un carico equivalente.
 
-## Capitolo 5: Equilibrio del Corpo Rigido
+## 5: Equilibrio del Corpo Rigido
 Condizioni di Equilibrio di un Corpo Rigido: Comprendere quando un corpo rigido è in equilibrio.
 Diagramma del Corpo Libero per Corpi Rigidi: Creare diagrammi del corpo libero per corpi rigidi complessi.
 Equazioni di Equilibrio: Applicare le equazioni di equilibrio a sistemi rigidi.
 Membri con Due e Tre Forze: Essere in grado di riconoscere e analizzare i membri soggetti a due o tre forze.
 Vincoli e Determinazione Statica: Comprendere i vincoli e la determinazione statica di un corpo rigido.
+
+Ecco come puoi aggiungere i nuovi argomenti relativi ai **Centri di Gravità e Momenti di Inerzia** alla tua pagina:
+
+------
+
+### 9: Calcolo del baricentro
+
+Baricentro di un Corpo: Definizione e calcolo.
+Corpi Compositi: Calcolo del baricentro di corpi composti.
+Risultante di un Carico Distribuito Generale: Calcolo della risultante di un carico distribuito.
+
+------
+
+### 10: Momento d'Inerzia
+
+Definizione dei Momenti di Inerzia di una regione piana.
+Formula di trasporto e rotazione.
+Momenti di Inerzia per regioni piane composte.
