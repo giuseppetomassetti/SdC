@@ -1,6 +1,16 @@
 
 ## Programma d'esame
 
+## Esercitazioni
+
+Sono parte integrante del programma d’esame le esercitazioni proposte sulla piattaforma moodle. 
+
+In [questa pagina](../Esercitazioni.md) sono spiegate le modalità di consegna.
+
+
+
+## Argomenti d'esame
+
 **Cenni di algebra e calcolo vettoriale e tensoriale**
 
 **Cinematica dei corpi rigidi**
