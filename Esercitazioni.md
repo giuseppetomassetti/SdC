@@ -7,4 +7,5 @@
 - Gli originali (o le stampe degli svolgimenti fatti su tablet) devono essere raccolti in un quaderno che **andrà consegnato al docente il giorno della prova scritta, pena l'esclusione dalla prova.**
 
 - Le esercitazioni vanno redatte secondo le linee guida pubblicate sul sito del Corso.
-- È possibile consegnare le esercitazioni relative all'A.A. durante il quale si è seguito il corso.
+-
+- È possibile consegnare le esercitazioni relative all'A.A. durante il quale si è seguito il corso, caricandole sul sito moodle del corso che si è tenuto quell'anno.
