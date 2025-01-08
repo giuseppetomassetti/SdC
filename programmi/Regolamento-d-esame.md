@@ -19,11 +19,11 @@ La prova scritta consiste nella risoluzione di problemi e in un quiz di tipo teo
 
 1) Lo studente deve presentarsi alla prova scritta munito di un numero sufficiente di fogli A4 bianchi. 
 
-2) Lo svolgimento del compito va scritto a penna (nera o blu) su una sola facciata. I fogli vanno numerati progressivamente, e il primo dovra' riportare nome, cognome, data firma, e numero di foglio. Il compito va redatto come se si trattasse di una esercitazione (si vedano le istruzioni per la redazione delle esercitazioni).
+2) Lo svolgimento del compito va scritto a penna (nera o blu) su una sola facciata. I fogli vanno numerati progressivamente, e il primo dovra' riportare nome, cognome, data firma, e numero di foglio. L'elaborato **va redatto come se si trattasse di una esercitazione** (si vedano le istruzioni per la redazione delle esercitazioni) e sarà valutato anche in base a **completezza** e **chiarezza espositiva**.
 
-3) Durante lo svolgimento della prova scritta è consentito l'utilizzo di una calcolatrice scientifica non programmabile, ma non è consentito l'uso di altro materiale (libri, appunti, note, schemi, etc, a meno che cio' sia stato concordato come misura compensativa). 
+3) Durante lo svolgimento della prova scritta è consentito l'utilizzo di una calcolatrice scientifica non programmabile, ma non è consentito l'uso di altro materiale (libri, appunti, note, schemi, etc, a meno che cio' sia stato concordato come misura compensativa).
 
-Quando possibile, le prove scritte verranno svolte in Piazza Telematica, Via Ostiense 133b palazzina D, oppure in Aula Campus, situata al piano terra dell’edificio “ex OMI”, in via della Vasca Navale in prossimita’ dell’entrata del civico 81.
+Quando possibile, le prove scritte verranno svolte in Piazza Telematica, Via Ostiense 133b palazzina D, oppure in Aula Campus, situata al piano terra dell’edificio “ex OMI”, in via della Vasca Navale in prossimita’ dell’entrata del civico 81. 
 
 ATTENZIONE: Il giorno dell’esame occorre essere muniti di **password per accedere a moodle**.
 
