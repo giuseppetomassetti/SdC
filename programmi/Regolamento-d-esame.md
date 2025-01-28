@@ -7,7 +7,7 @@
 
 La prova di esame consiste in una discussione orale alla quale si accede mediante una prova scritta. 
 
-La prova scritta consiste nella risoluzione di problemi e in un quiz di tipo teorico. Sono esonerati dal quiz teorico i candidati iscritti **per la prima volta** a un appello d'esame di Scienza delle Costruzioni nell'anno accademico corrente.
+La prova scritta consiste nella risoluzione di problemi e in un quiz di tipo teorico. Sono esonerati dal quiz teorico i candidati iscritti o partecipanti **per la prima volta** a un appello d'esame di Scienza delle Costruzioni **nell'anno accademico corrente**.
 
  **ATTENZIONE:**
 
