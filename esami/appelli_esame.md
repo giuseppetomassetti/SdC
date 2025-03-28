@@ -5,6 +5,10 @@ La versione per ipad e iphone è scaricabile presso questo indirizzo: https://ww
 
 
 
+## Prove scritte AA 2024-25
+https://ingegneriaindustrialeelettronicameccanica.el.uniroma3.it/course/view.php?id=1199
+
+
 ## Appello straordinario del 9 novembre 2023 per ingegneria meccanica
 
 https://ingegneriaindustrialeelettronicameccanica.el.uniroma3.it/course/view.php?id=777#section-5
