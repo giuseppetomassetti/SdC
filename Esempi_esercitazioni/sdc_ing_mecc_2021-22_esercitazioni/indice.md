@@ -28,7 +28,7 @@
 
 ## Esercitazione 5 - Metodo delle forze
 
-![image-20230108183129345](./indice.assets/image-20230108183129345.png)
+![image-20230108183129345](indice.assets/image-20230108183129345.png)
 
  [Svolgimento esercitazione 5](esercitazione 5-.pdf) 
 
@@ -38,7 +38,7 @@
 
 Determinare assi e momenti principali d'inerzia della seguente sezione in parete sottile.
 
-![](./indice.assets/image-20230108183934629.png)
+![](indice.assets/image-20230108183934629.png)
 
  [Svolgimento esercitazione 6](Esercitazione 6 - geometria delle aree.pdf) 
 
@@ -46,7 +46,7 @@ Determinare assi e momenti principali d'inerzia della seguente sezione in parete
 
 ## Esercitazione 7 - Forza normale centrata
 
-![image-20230108184852764](./indice.assets/image-20230108184852764.png)
+![image-20230108184852764](indice.assets/image-20230108184852764.png)
 
  [Svolgimento esercitazione 7](Esercitazione 7 - forza normale centrata.pdf) 
 
@@ -54,7 +54,7 @@ Determinare assi e momenti principali d'inerzia della seguente sezione in parete
 
 ## Esercitazione 8 - Flessione retta I
 
-![image-20230108185221647](./indice.assets/image-20230108185221647.png)
+![image-20230108185221647](indice.assets/image-20230108185221647.png)
 
  [Svolgimento esercitazione 8](Esercitazione 8-Flessione Retta.pdf) 
 
@@ -62,7 +62,7 @@ Determinare assi e momenti principali d'inerzia della seguente sezione in parete
 
 ## Esercitazione 9 - Flessione retta II
 
-![image-20230108190010539](./indice.assets/image-20230108190010539.png)
+![image-20230108190010539](indice.assets/image-20230108190010539.png)
 
  [Svolgimento esercitazione 9](Esercitazione 9-Flessione Retta 2.pdf) 
 
@@ -70,13 +70,13 @@ Determinare assi e momenti principali d'inerzia della seguente sezione in parete
 
 ## Esercitazione 10 - Flessione deviata
 
-![image-20230108190150665](./indice.assets/image-20230108190150665.png) [Svolgimento esercitazione 10](Esercitazione 10-Flessione Deviata.pdf) 
+![image-20230108190150665](indice.assets/image-20230108190150665.png) [Svolgimento esercitazione 10](Esercitazione 10-Flessione Deviata.pdf) 
 
 ---
 
 ## Esercitazione 11 - Torsione nelle sezioni sottili composte
 
-![image-20230108190415690](./indice.assets/image-20230108190415690.png)
+![image-20230108190415690](indice.assets/image-20230108190415690.png)
 
  [Svolgimento esercitazione 11](Esercitazione 11-Torsione nelle sezioni sottili composte.pdf) 
 

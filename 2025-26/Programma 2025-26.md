@@ -1,4 +1,5 @@
 
+Nota: costituiscono parte integrante dell'esame le esercitazioni. Queste vanno caricate sulla piattaforma elettronica almeno una settimana prima della prova scritta, in modo da permettere al docente di effettuare le dovute verifiche. 
 
 ## 1. Fondamenti e modelli del continuo
 

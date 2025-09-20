@@ -120,17 +120,31 @@
             }
           },
           {
+            "id": "c5c03a2e09e542e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-26/Programma 2025-26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Programma 2025-26"
+            }
+          },
+          {
             "id": "7615866422318851",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links.md",
+                "file": "Esempi_esercitazioni/Esempi_esercitazioni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Links"
+              "title": "Esempi_esercitazioni"
             }
           },
           {
@@ -294,24 +308,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7615866422318851",
+  "active": "c5c03a2e09e542e5",
   "lastOpenFiles": [
+    "regolamento_esercitazioni/Regolamento per le esercitazioni.md",
+    "regolamento_esercitazioni/Indicazioni per la redazione delle esercitazioni.md",
+    "Links.md",
+    "Esempi_esercitazioni/Esempi_esercitazioni.md",
     "2025-26/Programma 2025-26.md",
     "Untitled 1.md",
     "2025-26/Untitled.md",
-    "Links.md",
     "2025-26",
     "Modalità di esame su terminale.md",
     "Untitled.md",
     "README-old.md",
     "Untitled",
-    "svolgimento_esercitazioni/Indicazioni per lo svolgimento delle esercitazioni.md",
-    "svolgimento_esercitazioni/main.pdf",
-    "svolgimento_esercitazioni/main.pdf.md",
-    "svolgimento_esercitazioni/capture3.png",
-    "svolgimento_esercitazioni/capture2.png",
-    "svolgimento_esercitazioni/capture.png",
-    "svolgimento_esercitazioni/main copy.txt",
+    "regolamento_esercitazioni/main.pdf",
+    "regolamento_esercitazioni/main.pdf.md",
+    "regolamento_esercitazioni/capture3.png",
+    "regolamento_esercitazioni/capture2.png",
+    "regolamento_esercitazioni/capture.png",
+    "regolamento_esercitazioni/main copy.txt",
     "svolgimento_esercitazioni/main copy.tex",
     "programmi/Regolamento-d-esame-Giuseppe’s MacBook Air.md",
     "programmi/AA 2024-25.md",
@@ -328,7 +344,6 @@
     "programmi/sdc_ing_mecc_ing_tecn_mare_programma_2023-24.md",
     "regolamento_esame.md",
     "resources.md",
-    "programmi/index_casini_vasta.md",
     "Esercitazioni2023-24/Esercitazione1.pdf"
   ]
 }

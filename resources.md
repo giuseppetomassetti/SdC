@@ -26,7 +26,7 @@
 
 [Indicazioni per lo svolgimento delle esercitazioni](svolgimento_esercitazioni\main.pdf) 
 
-Nella [seguente pagina](Esercitazioni/esercitazioni.md) riporto degli svolgimenti di esercitazioni molto ben curati, gentilmente forniti dagli studenti, **che ringrazio vivamente.**
+Nella [seguente pagina](Esempi_esercitazioni/Esempi_esercitazioni.md) riporto degli svolgimenti di esercitazioni molto ben curati, gentilmente forniti dagli studenti, **che ringrazio vivamente.**
 
 Nota bene: nelle esercitazioni degli anni passati potrete trovare **svolti molti degli esercizi proposti nel libro di testo**. 
 
