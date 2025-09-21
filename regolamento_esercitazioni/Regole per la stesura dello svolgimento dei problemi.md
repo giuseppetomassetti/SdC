@@ -1,4 +1,6 @@
-# Indicazioni per la redazione delle esercitazioni
+# Regole per la stesura dello svolgimento dei problemi
+
+
 
 Come regola generale, le esercitazioni devono essere redatte **come se si trattasse dell'esposizione della risoluzione di un problema su un libro di testo**. 
 
