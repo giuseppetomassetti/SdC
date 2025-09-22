@@ -5,7 +5,7 @@
 
 Sono parte integrante del programma d’esame le esercitazioni proposte sulla piattaforma moodle. 
 
-In [questa pagina](../Regolamento%20esercitazioni.md) sono spiegate le modalità di consegna.
+In [questa pagina](../2025-26/Regolamento%20esercitazioni.md) sono spiegate le modalità di consegna.
 
 
 
