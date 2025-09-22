@@ -1,5 +1,5 @@
 
-# Programma e testi AA 2025-26
+# Programma e testi 
 
 ## Programma d'esame
 
