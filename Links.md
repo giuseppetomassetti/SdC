@@ -1,6 +1,21 @@
 [Programma e testi AA 2025-26](programmi/Programma%20e%20testi%20AA%202025-26)
 
-[Regole per la stesura dello svolgimento dei problemi](regolamento_esercitazioni/Regole%20per%20la%20stesura%20dello%20svolgimento%20dei%20problemi)
+[Regolamento esame 2025-26](programmi/Regolamento%20esame%202025-26.md)
+
+[Regolamento prova scritta](programmi/Regolamento%20prova%20scritta)
+
+[Regolamento esercitazioni](regolamento_esercitazioni/Regolamento%20esercitazioni)
+
+[Valutazione degli elaborati](regolamento_esercitazioni/Valutazione%20degli%20elaborati)
 
 [Esempi_esercitazioni](Esempi_esercitazioni/Esempi_esercitazioni)
+
+
+
+
+
+
+
+
+
 

@@ -1,7 +1,7 @@
 ## Regolamento per le esercitazioni
 
 - Le esercitazioni vengono proposte tramite la piattaforma moodle e costituiscono parte integrante dell'esame.
-- Le esercitazioni devono essere caricate sulla piattaforma moodle entro il giorno precedente all'appello.
+- Le esercitazioni devono essere caricate sulla piattaforma moodle almeno una settimana prima della data della prova scritta.
 - In fondo ad ogni elaborato dovrete scrivere una breve dichiarazione firmata che attesti che l'elaborato è frutto del vostro lavoro.
 
 ## Modalità di consegna

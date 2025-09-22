@@ -1,8 +1,8 @@
-# Regole per la stesura dello svolgimento dei problemi
+# Valutazione degli elaborati
 
+Questo documento descrive i criteri di valutazione degli elaborati (esercitazioni e compiti d'esame).
 
-
-Come regola generale, le esercitazioni devono essere redatte **come se si trattasse dell'esposizione della risoluzione di un problema su un libro di testo**. 
+Come regola generale, lo svolgimento di un problema va sviluppato **come se si trattasse dell'esposizione della risoluzione di un problema su un libro di testo**. 
 
 #### Indicatori
 
