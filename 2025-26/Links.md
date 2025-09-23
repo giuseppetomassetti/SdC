@@ -10,6 +10,8 @@
 
 [Esempi_esercitazioni](Esempi_esercitazioni/Esempi_esercitazioni)
 
+[Esercitazioni 2025-26](Esercitazioni2025-26/Esercitazioni%202025-26)
+
 
 
 
