@@ -271,30 +271,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-26/Links.md",
+                "file": "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.6 - Calcolo reazioni vincolari.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Links"
-            }
-          },
-          {
-            "id": "69d03fbe4cb4ac90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.4 - Vincoli lisci.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Esercitazione 1.4 - Vincoli lisci"
+              "title": "Esercitazione 1.6 - Calcolo reazioni vincolari"
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -442,63 +428,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "9f5b610ac752b6b3",
-    "type": "floating",
-    "children": [
-      {
-        "id": "60c703d01070cdb9",
-        "type": "window",
-        "children": [
-          {
-            "id": "e196bbfe8763a5fb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "aa0cb775f6b8799c",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Esempi_esercitazioni/sdc_ing_mecc_2019-21_esercitazioni/esercitazioni_annalisa_genovesi/Esercizi consegnati Scienza delle Costruzioni/06Altri schemi statici.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "06Altri schemi statici"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 328,
-        "y": 69,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "69d03fbe4cb4ac90",
+  "active": "9a81a71d077bec66",
   "lastOpenFiles": [
+    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1 - Statica.md",
+    "2025-26/Esercitazioni2025-26/Esercitazioni 2025-26.md",
+    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.1 - Sistemi di vettori applicati.md",
+    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.2 - Casi elementari di equilibrio.md",
+    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/attachments/Pasted image 20250924062859.png",
+    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/attachments/Pasted image 20250924061230.png",
+    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/attachments",
+    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.5 - Riduzione di un sistema di forze.md",
     "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.3 - Velocità reali e virtuali.md",
+    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.6 - Calcolo reazioni vincolari.md",
+    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.md",
+    "2025-26/Links.md",
     "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.4 - Vincoli lisci.md",
+    "Esempi_esercitazioni/sdc_ing_mecc_2019-21_esercitazioni/esercitazioni_annalisa_genovesi/Esercizi consegnati Scienza delle Costruzioni/06Altri schemi statici.pdf",
     "2025-26/Programma e testi.md",
     "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Travature reticolari.md",
     "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/0 Sistemi di vettori applicati (risposte).md",
     "2025-26/Esercitazioni2025-26/Esercitazione 1/Esercitazione 1.1 - Sistemi di vettori applicati.pdf",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.2 - Casi elementari di equilibrio.md",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.1 - Sistemi di vettori applicati.md",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1 - Statica.md",
     "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica",
     "2025-26/Esercitazioni2025-26/Esercitazione 1/Esercitazione 1 - statica.md",
     "2025-26/Valutazione degli elaborati.md",
     "2025-26/Regolamento esercitazioni.md",
-    "Esempi_esercitazioni/sdc_ing_mecc_2019-21_esercitazioni/esercitazioni_annalisa_genovesi/Esercizi consegnati Scienza delle Costruzioni/06Altri schemi statici.pdf",
-    "2025-26/Links.md",
     "2025-26/Regolamento esame.md",
     "2025-26/Esercitazioni2025-26/Esercitazione 1/Esercitazione 1.2 - Casi elementari di equilibrio.pdf",
-    "2025-26/Esercitazioni2025-26/Esercitazioni 2025-26.md",
     "programmi/AA 2024-25.md",
     "2025-26/Regolamento prova scritta.md",
     "regolamento_esercitazioni/Regolamento per le esercitazioni.md",
@@ -511,11 +466,7 @@
     "programmi/Regolamento-d-esame.md",
     "README-old.md",
     "programmi/index.md",
-    "regolamento_esame.md",
-    "esempi_esame_scritto/esempio_esame_20210102.md",
-    "PRJ-SdC 2025-26/Resources/Marigo Mechanique des Milieux Continus I MEC430.pdf.md",
     "PRJ-SdC 2025-26/Resources",
-    "PRJ-SdC 2025-26",
     "regolamento_esercitazioni/capture3.png",
     "regolamento_esercitazioni/capture2.png",
     "regolamento_esercitazioni/capture.png"
