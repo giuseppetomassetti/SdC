@@ -169,7 +169,7 @@ Sia dato il sistema di forze
 $$
 \mathcal S = \{(P_1,\mathbf F_1), (P_2,\mathbf F_2), (P_3,\mathbf F_3)\}.
 $$  
-Si dimostri che tre forze sono parallele al piano passante per $P_1$, $P_2$ e $P_3$, e che le loro rette d’azione concorrono in un unico punto. Concludere che, se un corpo rigido è in equilibrio sotto l’azione di tre forze, allora le rette di applicazione delle tre forze sono concorrenti (oppure parallele).  
+Si dimostri che il sistema è equilibrato se e solo se le tre forze sono parallele al piano passante per $P_1$, $P_2$ e $P_3$, e le loro rette d’azione concorrono in un unico punto. Concludere che, se un corpo rigido è in equilibrio sotto l’azione di tre forze, allora le rette di applicazione delle tre forze sono concorrenti (oppure parallele).  
 
 ### Risposta:  
 ---
