@@ -257,30 +257,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-26/Links.md",
+                "file": "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1 - statica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Links"
-            }
-          },
-          {
-            "id": "9a81a71d077bec66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.4 - Vincoli lisci.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Esercitazione 1.4 - Vincoli lisci"
+              "title": "Esercitazione 1 - statica"
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -428,46 +414,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a81a71d077bec66",
+  "active": "ca9f56c21b08e79e",
   "lastOpenFiles": [
-    "Pasted image 20250924085325.png",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.5 - Riduzione di un sistema di forze.md",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.4 - Vincoli lisci.md",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1 - Statica.md",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.3 - Velocità reali e virtuali.md",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.2 - Casi elementari di equilibrio.md",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.1 - Sistemi di vettori applicati.md",
     "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.6 - Calcolo reazioni vincolari.md",
+    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1 - statica.md",
+    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.5 - Riduzione di un sistema di forze.md",
+    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.3 - Velocità reali e virtuali.md",
+    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Parte 1 - Sistemi di vettori applicati.pdf",
+    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Parte 2 - Casi elementari di equilibrio.pdf",
+    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Parte 3 - Velocità reali e virtuali.pdf",
+    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Parte 4 - Vincoli lisci.pdf",
+    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Parte 5 - Riduzione di un sistema di forze.pdf",
+    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Parte 6 - Calcolo reazioni vincolari.pdf",
+    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.html",
+    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Scienza delle Costruzioni Roma TRE.html",
+    "2025-26/Esercitazioni2025-26/Scienza delle Costruzioni Roma TRE 1.html",
+    "2025-26/Esercitazioni2025-26/Scienza delle Costruzioni Roma TRE.html",
+    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.2 - Casi elementari di equilibrio.md",
+    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.4 - Vincoli lisci.md",
+    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.1 - Sistemi di vettori applicati.md",
+    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1 - Statica.md",
+    "Pasted image 20250924085325.png",
     "2025-26/Esercitazioni2025-26/Esercitazioni 2025-26.md",
     "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/attachments/Pasted image 20250924062859.png",
     "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/attachments/Pasted image 20250924061230.png",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/attachments",
     "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.md",
     "2025-26/Links.md",
-    "Esempi_esercitazioni/sdc_ing_mecc_2019-21_esercitazioni/esercitazioni_annalisa_genovesi/Esercizi consegnati Scienza delle Costruzioni/06Altri schemi statici.pdf",
     "2025-26/Programma e testi.md",
     "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Travature reticolari.md",
     "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/0 Sistemi di vettori applicati (risposte).md",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1/Esercitazione 1.1 - Sistemi di vettori applicati.pdf",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica",
     "2025-26/Esercitazioni2025-26/Esercitazione 1/Esercitazione 1 - statica.md",
     "2025-26/Valutazione degli elaborati.md",
     "2025-26/Regolamento esercitazioni.md",
     "2025-26/Regolamento esame.md",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1/Esercitazione 1.2 - Casi elementari di equilibrio.pdf",
     "programmi/AA 2024-25.md",
     "2025-26/Regolamento prova scritta.md",
     "regolamento_esercitazioni/Regolamento per le esercitazioni.md",
     "Modalità di esame su terminale.md",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1/Esercitazione 1.3 - Velocità reali e virtuali.pdf",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1/Esercitazione 1.4 - Vincoli lisci.pdf",
-    "2025-26/Esercitazioni2025-26",
     "Esempi_esercitazioni/Esempi_esercitazioni.md",
     "programmi/Regolamento-d-esame.md",
     "README-old.md",
     "programmi/index.md",
-    "PRJ-SdC 2025-26/Resources",
     "regolamento_esercitazioni/capture3.png",
     "regolamento_esercitazioni/capture2.png",
     "regolamento_esercitazioni/capture.png"

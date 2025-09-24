@@ -1,16 +1,12 @@
-Rispondere alle domande nelle seguenti pagine: 
+[Parte 1 - Sistemi di vettori applicati](Parte%201%20-%20Sistemi%20di%20vettori%20applicati.pdf)
 
-[Esercitazione 1.1 - Sistemi di vettori applicati](Esercitazione%201.1%20-%20Sistemi%20di%20vettori%20applicati)
+[Parte 2 - Casi elementari di equilibrio](Parte%202%20-%20Casi%20elementari%20di%20equilibrio.pdf)
 
-[Esercitazione 1.2 - Casi elementari di equilibrio](Esercitazione%201.2%20-%20Casi%20elementari%20di%20equilibrio)
+[Parte 3 - Velocità reali e virtuali](Parte%203%20-%20Velocità%20reali%20e%20virtuali.pdf)
 
-[Esercitazione 1.3 - Velocità reali e virtuali](Esercitazione%201.3%20-%20Velocità%20reali%20e%20virtuali)
+[Parte 4 - Vincoli lisci](Parte%204%20-%20Vincoli%20lisci.pdf)
 
-[Esercitazione 1.4 - Vincoli lisci](Esercitazione%201.4%20-%20Vincoli%20lisci)
+[Parte 5 - Riduzione di un sistema di forze](Parte%205%20-%20Riduzione%20di%20un%20sistema%20di%20forze.pdf)
 
-[Esercitazione 1.5 - Riduzione di un sistema di forze](Esercitazione%201.5%20-%20Riduzione%20di%20un%20sistema%20di%20forze)
-
-[Esercitazione 1.6 - Calcolo reazioni vincolari](Esercitazione%201.6%20-%20Calcolo%20reazioni%20vincolari)
-
-
+[Parte 6 - Calcolo reazioni vincolari](Parte%206%20-%20Calcolo%20reazioni%20vincolari.pdf)
 
