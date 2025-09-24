@@ -128,7 +128,7 @@ $$ \delta W=\left(\mathbf{R}^{(1)}+\mathbf{R}^{(2)}\right) \cdot \delta \mathbf{
 
 Comando Carrello (appoggio semplice) in un sistema di corpi piano
 
-![[../../Excalidraw/Drawing 2025-09-17 21.28.56.excalidraw]]
+![400](../../../Pasted%20image%2020250924085325.png)
 
 La figura mostra un corpo rigido piano vincolato a un **carrello** posto nel punto $P$, appoggiato su un piano liscio con **versore normale** $\hat{\mathbf n}$ e **versore tangenziale** $\hat{\mathbf t}$.
 
