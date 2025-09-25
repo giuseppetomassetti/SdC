@@ -8,5 +8,5 @@
 
 - È possibile consegnare le esercitazioni relative all'A.A. durante il quale si è seguito il corso, caricandole sul sito moodle del corso che si è tenuto quell'anno.
 
-- Per ogni esercitazione è indicata una scadenza. Sebbene la scadenza sia non tassativa, il rispetto delle scadenze costituisce elemento di valutazione positiva.
+- I testi delle esercitazioni verranno pubblicati sulla piattaforma moodle sotto forma di "compito". Questi testi saranno discussi in aula e, al termine della discussione, verrà fissata una scadenza per la consegna, dandone notifica agli iscritti (tramite il sistema moodle). Sebbene la scadenza sia non tassativa, il rispetto delle scadenze costituisce elemento di valutazione positiva.
   
