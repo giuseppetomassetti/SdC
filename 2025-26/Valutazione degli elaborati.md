@@ -99,3 +99,20 @@ Valutazione sintetica:
 - Correttezza qualitativa: insufficiente.
 - Correttezza quantitativa: non valutata.
 - Valutazione complessiva: insufficiente.
+
+
+
+
+```
+<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "none" } } }); </script> 
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+	inlineMath: [['$','$'], ['\\(','\\)']],
+	displayMath: [ ['$$', '$$'] ],
+	processEscapes: true,
+	processEnvironments: true
+	}
+}); 
+```

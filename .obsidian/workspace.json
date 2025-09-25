@@ -283,12 +283,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-26/Regolamento esercitazioni.md",
+                "file": "2025-26/Valutazione degli elaborati.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regolamento esercitazioni"
+              "title": "Valutazione degli elaborati"
             }
           }
         ],
@@ -442,8 +442,8 @@
   },
   "active": "826ea5352c04cb4a",
   "lastOpenFiles": [
-    "2025-26/Regolamento esame.md",
     "2025-26/Regolamento esercitazioni.md",
+    "2025-26/Regolamento esame.md",
     "2025-26/Regolamento prova scritta.md",
     "2025-26/Esercitazioni2025-26/Esercitazioni 2025-26.md",
     "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Parte 6 - Calcolo reazioni vincolari.pdf",
