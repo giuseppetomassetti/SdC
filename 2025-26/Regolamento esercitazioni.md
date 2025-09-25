@@ -7,3 +7,6 @@
 - Le esercitazioni vanno redatte secondo le linee guida pubblicate sul sito del Corso.
 
 - È possibile consegnare le esercitazioni relative all'A.A. durante il quale si è seguito il corso, caricandole sul sito moodle del corso che si è tenuto quell'anno.
+
+- Per ogni esercitazione è indicata una scadenza. Sebbene la scadenza sia non tassativa, il rispetto delle scadenze costituisce elemento di valutazione positiva.
+  

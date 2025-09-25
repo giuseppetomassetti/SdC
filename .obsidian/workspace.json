@@ -283,12 +283,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-26/Esercitazioni2025-26/Esercitazioni 2025-26.md",
+                "file": "2025-26/Regolamento esercitazioni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Esercitazioni 2025-26"
+              "title": "Regolamento esercitazioni"
             }
           }
         ],
@@ -442,8 +442,11 @@
   },
   "active": "826ea5352c04cb4a",
   "lastOpenFiles": [
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Parte 6 - Calcolo reazioni vincolari.pdf",
+    "2025-26/Regolamento esame.md",
+    "2025-26/Regolamento esercitazioni.md",
+    "2025-26/Regolamento prova scritta.md",
     "2025-26/Esercitazioni2025-26/Esercitazioni 2025-26.md",
+    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Parte 6 - Calcolo reazioni vincolari.pdf",
     "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1 - Statica.md",
     "2025-26/Links.md",
     "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.6 - Calcolo reazioni vincolari.md",
@@ -470,10 +473,7 @@
     "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/0 Sistemi di vettori applicati (risposte).md",
     "2025-26/Esercitazioni2025-26/Esercitazione 1/Esercitazione 1 - statica.md",
     "2025-26/Valutazione degli elaborati.md",
-    "2025-26/Regolamento esercitazioni.md",
-    "2025-26/Regolamento esame.md",
     "programmi/AA 2024-25.md",
-    "2025-26/Regolamento prova scritta.md",
     "regolamento_esercitazioni/Regolamento per le esercitazioni.md",
     "Modalità di esame su terminale.md",
     "Esempi_esercitazioni/Esempi_esercitazioni.md",
