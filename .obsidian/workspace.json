@@ -1,182 +1,14 @@
 {
   "main": {
-    "id": "31cce601be894549",
+    "id": "39b774dac4e4bf5a",
     "type": "split",
     "children": [
       {
-        "id": "a85877a66d8a30b4",
+        "id": "a41d1b60d9d0683d",
         "type": "tabs",
         "children": [
           {
-            "id": "cbe808e91c51e587",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-26/Regolamento esercitazioni.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Regolamento esercitazioni"
-            }
-          },
-          {
-            "id": "e5cbc0a54c4bb3dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-26/Regolamento esame.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Regolamento esame"
-            }
-          },
-          {
-            "id": "bd6eb0f35d95df16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-26/Regolamento esame.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Regolamento esame"
-            }
-          },
-          {
-            "id": "d9d85962eb6afcfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-26/Links.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Links"
-            }
-          },
-          {
-            "id": "e803a8631251041b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-26/Links.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Links"
-            }
-          },
-          {
-            "id": "cb15438df023c454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-26/Regolamento esame.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Regolamento esame"
-            }
-          },
-          {
-            "id": "ed994aa542091977",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-26/Regolamento prova scritta.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Regolamento prova scritta"
-            }
-          },
-          {
-            "id": "d5dbfab998fa8d55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-26/Regolamento esame.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Regolamento esame"
-            }
-          },
-          {
-            "id": "16bb1ea7019ac3d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-26/Regolamento esame.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Regolamento esame"
-            }
-          },
-          {
-            "id": "002f6441ffd3d1f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-26/Links.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Links"
-            }
-          },
-          {
-            "id": "c248ac90730869ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-26/Links.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Links"
-            }
-          },
-          {
-            "id": "8ffa51b5a0d75dbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-26/Regolamento prova scritta.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Regolamento prova scritta"
-            }
-          },
-          {
-            "id": "25d56d8fcd774c76",
+            "id": "99a2807f6e5b49aa",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -184,129 +16,22 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
-          },
-          {
-            "id": "f36bfc66c90d4235",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2025-26/Esercitazioni2025-26/Esercitazione 1/Esercitazione 1.1 - Sistemi di vettori applicati.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Esercitazione 1.1 - Sistemi di vettori applicati"
-            }
-          },
-          {
-            "id": "949b527c7035f302",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2025-26/Esercitazioni2025-26/Esercitazione 1/Esercitazione 1.2 - Casi elementari di equilibrio.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Esercitazione 1.2 - Casi elementari di equilibrio"
-            }
-          },
-          {
-            "id": "c27ca85307565484",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-26/Esercitazioni2025-26/Esercitazioni 2025-26.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Esercitazioni 2025-26"
-            }
-          },
-          {
-            "id": "c74a5afc33d960bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-26/Regolamento esercitazioni.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Regolamento esercitazioni"
-            }
-          },
-          {
-            "id": "0dbde1517055bbce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-26/Regolamento prova scritta.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Regolamento prova scritta"
-            }
-          },
-          {
-            "id": "ca9f56c21b08e79e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-26/Esercitazioni2025-26/Esercitazioni 2025-26.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Esercitazioni 2025-26"
-            }
-          },
-          {
-            "id": "b241cc374a5fc6a4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Parte 6 - Calcolo reazioni vincolari.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Parte 6 - Calcolo reazioni vincolari"
-            }
-          },
-          {
-            "id": "826ea5352c04cb4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-26/Regolamento esercitazioni.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Regolamento esercitazioni"
-            }
           }
-        ],
-        "currentTab": 20
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "dc4ed0242277bbbd",
+    "id": "71e1960b87c3434e",
     "type": "split",
     "children": [
       {
-        "id": "070a877ef79786a6",
+        "id": "8d02b073eeb28160",
         "type": "tabs",
         "children": [
           {
-            "id": "8fc54bb778bda06f",
+            "id": "caa87448acc540a3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -319,12 +44,12 @@
             }
           },
           {
-            "id": "58f90d22429222c8",
+            "id": "e2adea2da2197ba1",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "programma",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -336,7 +61,7 @@
             }
           },
           {
-            "id": "0e1af1d019b232ec",
+            "id": "13336aae1ae44c00",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -352,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "e0e0b0787b426600",
+    "id": "2dbdc4bdc91501b1",
     "type": "split",
     "children": [
       {
-        "id": "14d218c1d045aed5",
+        "id": "02ce8b09e7576b7d",
         "type": "tabs",
         "children": [
           {
-            "id": "c82728bba257ea1a",
+            "id": "2f9070a1151d9c74",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "esami/appelli_esame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -375,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for appelli_esame"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "a0bbc2bb246c1485",
+            "id": "62a1fa6471407354",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "esami/appelli_esame.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from appelli_esame"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "cf6369143ead8724",
+            "id": "2be434b907af8e3e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -408,18 +131,31 @@
             }
           },
           {
-            "id": "fe8aaf5db850b0a4",
+            "id": "cd68b1823508fe39",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1047e118de204f70",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "esami/appelli_esame.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of appelli_esame"
+              "title": "Outline"
             }
           }
         ]
@@ -431,57 +167,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "826ea5352c04cb4a",
+  "active": "caa87448acc540a3",
   "lastOpenFiles": [
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Parte 6 - Calcolo reazioni vincolari.pdf",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Parte 5 - Riduzione di un sistema di forze.pdf",
-    "2025-26/Regolamento esercitazioni.md",
-    "2025-26/Valutazione degli elaborati.md",
-    "2025-26/Regolamento esame.md",
-    "2025-26/Regolamento prova scritta.md",
-    "2025-26/Esercitazioni2025-26/Esercitazioni 2025-26.md",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1 - Statica.md",
-    "2025-26/Links.md",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.6 - Calcolo reazioni vincolari.md",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.5 - Riduzione di un sistema di forze.md",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.3 - Velocità reali e virtuali.md",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Parte 1 - Sistemi di vettori applicati.pdf",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Parte 2 - Casi elementari di equilibrio.pdf",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Parte 3 - Velocità reali e virtuali.pdf",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Parte 4 - Vincoli lisci.pdf",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.html",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Scienza delle Costruzioni Roma TRE.html",
-    "2025-26/Esercitazioni2025-26/Scienza delle Costruzioni Roma TRE 1.html",
-    "2025-26/Esercitazioni2025-26/Scienza delle Costruzioni Roma TRE.html",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.2 - Casi elementari di equilibrio.md",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.4 - Vincoli lisci.md",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.1 - Sistemi di vettori applicati.md",
-    "Pasted image 20250924085325.png",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/attachments/Pasted image 20250924062859.png",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/attachments/Pasted image 20250924061230.png",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Esercitazione 1.md",
-    "2025-26/Programma e testi.md",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/Travature reticolari.md",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1 - Statica/0 Sistemi di vettori applicati (risposte).md",
-    "2025-26/Esercitazioni2025-26/Esercitazione 1/Esercitazione 1 - statica.md",
-    "programmi/AA 2024-25.md",
-    "regolamento_esercitazioni/Regolamento per le esercitazioni.md",
-    "Modalità di esame su terminale.md",
-    "Esempi_esercitazioni/Esempi_esercitazioni.md",
-    "programmi/Regolamento-d-esame.md",
-    "README-old.md",
-    "programmi/index.md",
-    "regolamento_esercitazioni/capture3.png",
-    "regolamento_esercitazioni/capture2.png",
-    "regolamento_esercitazioni/capture.png"
+    "Codici/Trave-iperstatica-marigo-20251206.py",
+    "Codici"
   ]
 }
