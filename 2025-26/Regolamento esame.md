@@ -7,9 +7,13 @@
 
 - Il regolamento della prova scritta è riportato in questa pagina: [Regolamento prova scritta](Regolamento%20prova%20scritta.md)
 
-- La scadenza per le prenotazioni è **una settimana prima della prova scritta**. Dopo tale scadenza non è possibile iscriversi o cancellare la propria prenotazione.
+  Gli elaborati d'esame vengono valutati in base alla griglia in: [Valutazione degli elaborati](Valutazione%20degli%20elaborati.md)
+
+- La scadenza per le prenotazioni è **una settimana prima della prova scritta**. Dopo tale scadenza non è possibile iscriversi o cancellare autonomanente la propria prenotazione (chi volesse farlo, è pregato di inviare una comunicazione al docente).
+
+- Si raccomanda di controllare la conferma via email della prenotazione e di conservare la email di conferma in modo da poterla inoltrare al docente in caso il proprio nominativo non comparisse nell'elenco dei prenotati. In ogni caso, per ogni questione relativa alle prenotazioni, **si prega di contattare il docente e non la segreteria studenti**.
   
-- La qualità degli elaborati viene valutata utilizzando la griglia in: [Valutazione degli elaborati](Valutazione%20degli%20elaborati.md)
+
 
 
 
