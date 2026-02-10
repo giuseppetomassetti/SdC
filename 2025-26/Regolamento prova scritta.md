@@ -4,8 +4,8 @@
 
 - È consentito l'utilizzo di una calcolatrice scientifica non programmabile, ma non è consentito l'uso di altro materiale (cellulari, smartwatch, auricolari, libri, appunti, note, schemi, etc, a meno che cio' sia stato concordato come misura compensativa).
   
-- È richiesto di presentarsi alla prova scritta munito di un numero sufficiente di fogli A4 bianchi. 
+- È richiesto di presentarsi alla prova scritta muniti di un numero congruo di fogli A4 bianchi, da adoperare sia per svolgere calcoli che per la redazione dell'elaborato che verra` consegnato. 
   
-- Gli elaborati vanno redatti a penna (nera o blu) **su una sola facciata**. I fogli vanno numerati progressivamente e su ciascuno va riportato nome e cognome. 
+- Gli elaborati vanno redatti a penna (nera o blu) **su una sola facciata**. I fogli vanno numerati progressivamente e su ciascuno va riportato nome e cognome, ben visibile in alto a destra.
   
 - Quando le condizioni logistiche lo rendano possibile, le prove scritte verranno svolte in Piazza Telematica, Via Ostiense 133b palazzina D, oppure in Aula Campus, situata al piano terra dell’edificio “ex OMI”, in via della Vasca Navale in prossimità dell’entrata del civico 81. In tal caso, il giorno dell’esame occorre essere muniti di **password per accedere a moodle**.
