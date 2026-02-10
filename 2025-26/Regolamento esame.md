@@ -9,7 +9,9 @@
 
   Gli elaborati d'esame vengono valutati in base alla griglia in: [Valutazione degli elaborati](Valutazione%20degli%20elaborati.md)
 
-- La scadenza per le prenotazioni è **una settimana prima della prova scritta**. Dopo tale scadenza non è possibile iscriversi o cancellare autonomanente la propria prenotazione (chi volesse farlo, è pregato di inviare una comunicazione al docente).
+- La scadenza per le prenotazioni è **una settimana prima della prova scritta**. 
+
+- Si noti che il sistema delle prenotazioni online permette di annullare una prenotazione solo prima della scadenza di cui al punto precedente. Pertanto, dopo tale scadenza, per annullare la propria prenotazione occorrerà inviare una messaggio al docente tramite piattaforma teams.
 
 - Si raccomanda di verificare l'effettiva iscrizione e di conservare la conferma via email della prenotazione in modo da poterla inoltrare al docente in caso il proprio nominativo non comparisse nell'elenco dei prenotati. Per ogni questione relativa alle prenotazioni, **si prega di contattare il docente e non la segreteria studenti**.
   
