@@ -11,7 +11,7 @@
 
 - La scadenza per le prenotazioni è **una settimana prima della prova scritta**. Dopo tale scadenza non è possibile iscriversi o cancellare autonomanente la propria prenotazione (chi volesse farlo, è pregato di inviare una comunicazione al docente).
 
-- Si raccomanda di controllare la conferma via email della prenotazione e di conservare la email di conferma in modo da poterla inoltrare al docente in caso il proprio nominativo non comparisse nell'elenco dei prenotati. In ogni caso, per ogni questione relativa alle prenotazioni, **si prega di contattare il docente e non la segreteria studenti**.
+- Si raccomanda di verificare l'effettiva iscrizione e di conservare la conferma via email della prenotazione in modo da poterla inoltrare al docente in caso il proprio nominativo non comparisse nell'elenco dei prenotati. Per ogni questione relativa alle prenotazioni, **si prega di contattare il docente e non la segreteria studenti**.
   
 
 
