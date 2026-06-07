@@ -5,9 +5,9 @@
    
 - La prova di esame consiste in una prova scritta e una prova orale. La prova scritta ha esclusivamente carattere selettivo: l'esito è ammesso/non ammesso. Nello stabilire l'ammissione alla prova orale si terrà conto, oltre che della qualità dell'elaborato della prova scritta, **anche della qualità delle esercitazioni consegnate e del rispetto delle scadenze nella consegna.**
 
-- Il regolamento della prova scritta è riportato in questa pagina: [Regolamento prova scritta](Regolamento%20prova%20scritta.md)
+- Il regolamento della prova scritta è riportato in questa pagina: [Regolamento prova scritta](Regolamento%20prova%20scritta)
 
-  Gli elaborati d'esame vengono valutati in base alla griglia in: [Valutazione degli elaborati](Valutazione%20degli%20elaborati.md)
+  Gli elaborati d'esame vengono valutati in base alla griglia in: [Valutazione degli elaborati](Valutazione%20degli%20elaborati)
 
 - La scadenza per le prenotazioni è **una settimana prima della prova scritta**. 
 
