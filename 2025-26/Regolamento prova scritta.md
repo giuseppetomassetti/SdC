@@ -1,6 +1,6 @@
 ## Regolamento della prova scritta 
 
-- La prova scritta consiste in due parti: domande di teoria e problemi da svolgere. **Sono esonerati dalla parte di scritto relativa alla teoria i candidati che partecipano per la prima volta ad una prova di esame di questo insegnamento nell'anno accademico corrente.**
+- La prova scritta consiste in due parti: domande di teoria e problemi da svolgere. **Sono esonerati dalla parte di scritto relativa alla teoria i candidati iscritti per la prima volta ad una prova di esame di questo insegnamento nell'anno accademico corrente.**
 
 - È consentito l'utilizzo di una calcolatrice scientifica non programmabile, ma non è consentito l'uso di altro materiale (cellulari, smartwatch, auricolari, libri, appunti, note, schemi, etc, a meno che cio' sia stato concordato come misura compensativa).
   
