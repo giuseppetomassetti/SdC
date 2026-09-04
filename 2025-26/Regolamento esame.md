@@ -14,6 +14,14 @@
 - Si noti che il sistema delle prenotazioni online permette di annullare una prenotazione solo prima della scadenza di cui al punto precedente. Pertanto, dopo tale scadenza, per annullare la propria prenotazione occorrerà inviare una messaggio al docente tramite piattaforma teams.
 
 - Si raccomanda di verificare l'effettiva iscrizione e di conservare la conferma via email della prenotazione in modo da poterla inoltrare al docente in caso il proprio nominativo non comparisse nell'elenco dei prenotati. Per ogni questione relativa alle prenotazioni, **si prega di contattare il docente e non la segreteria studenti**.
+
+## Programmi d'esame di anni accademici precedenti
+
+Il Regolamento didattico di Ateneo prevede che lo studente fuori corso possa richiedere di sostenere l'esame facendo riferimento al programma dell'insegnamento relativo ad anni accademici precedenti, per un numero di anni non superiore alla durata normale del corso di studio.
+
+Per la **Laurea in Ingegneria Meccanica**, la cui durata normale è di **tre anni**, ne segue che la possibilità regolamentare di richiedere un programma precedente è limitata a tale intervallo temporale. In particolare, uno studente che abbia seguito l'insegnamento **sei anni prima non può invocare questa disposizione per richiedere di sostenere l'esame sul programma di quell'anno**.
+
+Una copia del Regolamento didattico di Ateneo è conservata nel repository: [Regolamento didattico Roma Tre](../Regolamento-didattico-roma-tre.pdf).
   
 
 
