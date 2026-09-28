@@ -57,7 +57,7 @@ Elemento di valutazione degli elaborati:
 ## Un esempio
 
 Si riporta un esempio di analisi di un compito svolto a casa.
-![](capture.png)
+![](../regolamento_esercitazioni/capture.png)
 
 Per quanto riguarda la forma, osserviamo che:
 
@@ -71,7 +71,7 @@ Osservazioni sul contenuto.
 - Dal terzo periodo traspare un errore concettuale: l'autore confonde una matrice, ovvero una tabella di scalari, con una generica applicazione da $V^n$ a $V^n$, senza peraltro indicare che la applicazione in questione è lineare (senza questa ipotesi non possiamo pensare a $\mathbf L$ come a una matrice). Sarebbe stato corretto dire che $L:V^n\to V^n$ è una trasformazione lineare e che la matrice $\mathbf L$ ne costituisce la rappresentazione in una base.
 - Il fatto che nel terzo periodo l'autore abbia ripetuto parte dell'enunciato posto all'inizio della pagina manifesta l'intenzione di riproporre nello svolgimento i dettagli dell'enunciato stesso. Il lettore si aspetta dunque che i periodi con cui inizia lo svolgimento del compito rappresentino una riscrittura delle ipotesi dell'enunciato che si vuole dimostrare. In questo contesto, la frase sintetizzata nella formula $\mathbf a\cdot\mathbf L\mathbf b=0$, posta in fondo, ha un significato equivoco: non essendo inserita in un contesto sintattico come frase subordinata, essa **rappresenta una affermazione da interpretarsi come ipotesi su $\mathbf a$, $\mathbf b$, e $\mathbf L$**, a fronte di una ipotesi che riguarda solamente $\mathbf L$. L'autore ci sta dicendo che ha scelto $\mathbf a$ e $\mathbf b$ in modo che $\mathbf a\cdot\mathbf L\mathbf b=0$.
 
-![](capture2.png)
+![](../regolamento_esercitazioni/capture2.png)
 
 Osservazioni sulla forma:
 
@@ -81,7 +81,7 @@ $$ \mathbf a^T\mathbf L\mathbf b. $$ Risulta anche definito il prodotto $$ \math
 
 - Specificare, in fondo alla prima formula, che gli indici $i$ e $j$ variano tra $1$ e $n$ è sia superfluo che dannoso. È superfluo perché l'intervallo di variazione di questi indici è sottinteso nel loro impiego sotto i simboli di sommatoria. È dannoso perché il lettore, vedendo la specifica di un intervallo per l'indice $i$ in fondo alla formula si aspetta che quell'indice siano liberi, anziché muti, e che la formula sia vera solo se i valori di quei indici cadono in un determinato intervallo.
 
-![](capture3.png)
+![](../regolamento_esercitazioni/capture3.png)
 
 Osservazioni sulla forma:
 

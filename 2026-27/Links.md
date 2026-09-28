@@ -1,23 +1,13 @@
-[Programma e testi](2025-26/Programma%20e%20testi.md)
+[Programma e testi](Programma%20e%20testi.md)
 
-[Regolamento esame](2025-26/Regolamento%20esame.md)
+[Regolamento esame](Regolamento%20esame.md)
 
-[Regolamento prova scritta](2025-26/Regolamento%20prova%20scritta.md)
+[Regolamento prova scritta](Regolamento%20prova%20scritta.md)
 
-[Regolamento esercitazioni](2025-26/Regolamento%20esercitazioni.md)
+[Regolamento esercitazioni](Regolamento%20esercitazioni.md)
 
-[Valutazione degli elaborati](2025-26/Valutazione%20degli%20elaborati.md)
+[Valutazione degli elaborati](Valutazione%20degli%20elaborati.md)
 
-[Esempi_esercitazioni](Esempi_esercitazioni/Esempi_esercitazioni)
+[Esempi di esercitazioni](../Esempi_esercitazioni/Esempi_esercitazioni.md)
 
-[Esercitazioni 2025-26](Esercitazioni2025-26/Esercitazioni%202025-26)
-
-
-
-
-
-
-
-
-
-
+[Esercitazioni 2026-27](Esercitazioni2026-27/Esercitazioni%202026-27.md)
