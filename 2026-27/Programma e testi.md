@@ -88,8 +88,8 @@ Deformazioni finite, tensore di Green–Lagrange, materiali, iperelastici e visc
 ### Testi di adottati
 
 - [R. Paroni, Scienza Delle Costruzioni: Elementi Di Teoria Dell'elasticità Lineare](https://www.amazon.it/Scienza-Delle-Costruzioni-Elementi-Dellelasticit%C3%A0/dp/8847040191/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=28P1NHVFFZEH4&keywords=paroni+scienza+delle+costruzioni&qid=1694430863&sprefix=paroni+scienza+delle+costruzioni%2Caps%2C165&sr=8-1) (Elasticità lineare e Problema di Saint-Venant)
-- [Scienza delle Costruzioni, Edizione 2019 Di P. Casini e M. Vasta.](https://www.amazon.it/Scienza-delle-costruzioni-Paolo-Casini-dp-8825174276/dp/8825174276/ref=dp_ob_title_bk) (Meccanica delle strutture)
-- [L. Anand & S. Govindjee, Continuum Mechanics of Solids (in inglese)](https://www.amazon.it/Continuum-Mechanics-Solids-Oxford-Graduate/dp/0198864728) (Meccanica dei solidi)
+- [Antonino Morassi e Alexandre Kawano, Scienza delle costruzioni (ISBN 9788838624803)](https://www.mheducation.it/scienza-delle-costruzioni-9788838624803-italy) (Meccanica delle strutture)
+- Note distribuite dal docente
 
 ### Testi di consultazione
 - [P. Podio-Guidugli, Lezioni di Scienza delle Costruzioni](https://www.amazon.it/Lezioni-scienza-delle-costruzioni-Guidugli/dp/8854827703/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=R050JJD13WJL&keywords=podio+guidugli+scienza+delle+costruzioni&qid=1694430951&sprefix=podio+guidugli+scienza+delle+costruzioni%2Caps%2C155&sr=8-1)
