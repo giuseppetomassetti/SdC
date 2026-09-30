@@ -11,3 +11,8 @@
 [Esempi di esercitazioni](../Esempi_esercitazioni/Esempi_esercitazioni.md)
 
 [Esercitazioni 2026-27](Esercitazioni2026-27/Esercitazioni%202026-27.md)
+
+## Slide Marigo
+
+- [M02 — Curva piana parametrizzata (presentazione HTML)](Slides/Marigo/M02.html)
+- [M02 — Curva piana parametrizzata (PDF)](Slides/Marigo/M02.pdf)

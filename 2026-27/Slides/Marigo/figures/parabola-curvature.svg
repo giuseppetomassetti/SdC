@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 430" role="img" aria-labelledby="title desc">
+  <title id="title">Cerchio osculatore della parabola nel vertice</title>
+  <desc id="desc">Parabola e cerchio osculatore nel vertice, con centro sulla normale orientata e raggio pari a un mezzo.</desc>
+  <defs>
+    <marker id="axis-arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#244b62"/>
+    </marker>
+  </defs>
+
+  <rect width="680" height="430" rx="18" fill="#efe6d7"/>
+
+  <g fill="none" stroke="#244b62" stroke-width="4" stroke-linecap="round">
+    <path d="M55 350 H630" marker-end="url(#axis-arrow)"/>
+    <path d="M340 390 V35" marker-end="url(#axis-arrow)"/>
+  </g>
+
+  <circle cx="340" cy="232.5" r="117.5"
+          fill="none" stroke="#3f7d63" stroke-width="7" stroke-dasharray="13 10"/>
+  <path d="M340 232.5 V350" stroke="#3f7d63" stroke-width="6"/>
+  <circle cx="340" cy="232.5" r="8" fill="#3f7d63"/>
+
+  <path d="M105 115 Q340 585 575 115"
+        fill="none" stroke="#6d7d87" stroke-width="8" stroke-linecap="round"/>
+  <path d="M270 329 Q340 371 410 329"
+        fill="none" stroke="#b45532" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="105" cy="115" r="10" fill="#efe6d7" stroke="#6d7d87" stroke-width="5"/>
+  <circle cx="575" cy="115" r="10" fill="#efe6d7" stroke="#6d7d87" stroke-width="5"/>
+  <circle cx="340" cy="350" r="10" fill="#b45532"/>
+</svg>

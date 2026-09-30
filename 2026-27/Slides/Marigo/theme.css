@@ -1,0 +1,49 @@
+/* @theme marigo */
+@import 'default';
+
+section {
+  background: #f7f4ed;
+  color: #19364a;
+  font-family: "Aptos", "Avenir Next", Arial, sans-serif;
+  font-size: 27px;
+  line-height: 1.22;
+  padding: 54px 68px 58px;
+}
+
+h1, h2, h3 { color: #1f4e79; font-weight: 700; }
+h1 { font-size: 1.52em; letter-spacing: -0.02em; }
+h2 { font-size: 1.18em; margin: 0.25em 0 0.55em; }
+
+strong, em { color: #b45532; }
+blockquote {
+  border-left: 6px solid #b86f3c;
+  background: #efe6d7;
+  padding: 0.35em 0.75em;
+}
+
+section::after { color: #6d7d87; font-size: 18px; }
+
+.kicker {
+  color: #b45532;
+  font-size: 0.68em;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.source {
+  color: #6d7d87;
+  font-size: 0.62em;
+  margin-top: 0.75em;
+}
+.twocol { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; align-items: center; }
+.small { font-size: 0.78em; }
+.center { text-align: center; }
+img { display: block; margin: 0.35em auto; max-height: none; width: auto; height: auto; }
+.tight li { margin: 0.18em 0; }
+
+table { font-size: 0.82em; }
+th { background: #1f4e79; color: white; }
+td, th { padding: 0.32em 0.55em; }
+
+/* Equations remain legible without reducing the body copy. */
+.katex { font-size: 1.05em; }
