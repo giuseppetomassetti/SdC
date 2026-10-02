@@ -16,3 +16,6 @@
 
 - [M02 — Curva piana parametrizzata (presentazione HTML)](Slides/Marigo/M02.html)
 - [M02 — Curva piana parametrizzata (PDF)](Slides/Marigo/M02.pdf)
+
+- [M03 — Parametrizzazione normale: esempio dell’arco (HTML)](Slides/Marigo/M03.html)
+- [M03 — Parametrizzazione normale: esempio dell’arco (PDF)](Slides/Marigo/M03.pdf)
