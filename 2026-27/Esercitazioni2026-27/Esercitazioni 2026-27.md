@@ -1,5 +1,7 @@
 # Esercitazioni 2026–27
 
+In caso di dubbi, scrivere a [scienzadellecostruzioniromatre@gmail.com](mailto:scienzadellecostruzioniromatre@gmail.com).
+
 ## Geometria delle curve — Marigo
 
 - [HW-01 / HW-P-1.1 — Ricostruzione di una curva piana](HW-01-HW-P-1.1.md)
