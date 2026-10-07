@@ -106,7 +106,7 @@ Svolgimento:  [diagramma taglio momento.pdf](diagramma taglio momento.pdf)
 
 ![image-20210517095426355](index.assets/image-20210517095426355.png)
 
-Svolgimento: [linea elastica.pdf](esercitazioni_annalisa_genovesi\Esercizi consegnati Scienza delle Costruzioni\linea elastica.pdf) 
+Svolgimento: [linea elastica.pdf](linea elastica.pdf) 
 
 ### Dettagli Esercizio 9.4 4a ed
 
