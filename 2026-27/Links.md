@@ -8,8 +8,6 @@
 
 [Valutazione degli elaborati](Valutazione%20degli%20elaborati.md)
 
-[Esempi di esercitazioni](../Esempi_esercitazioni/Esempi_esercitazioni.md)
-
 [Esercitazioni 2026-27](Esercitazioni2026-27/Esercitazioni%202026-27.md)
 
 ## Slide Marigo
